@@ -1,0 +1,20 @@
+[
+{
+  "pregunta": {
+      "contexto": "El Manual de Convivencia de la Institución Educativa Técnico Industrial Tomás Carrasquilla prohíbe explícitamente a los estudiantes llevar el cabello tinturado de colores no naturales, argumentando que atenta contra la disciplina y la buena presentación. Un estudiante, cuyo cabello está tinturado de azul, interpone una acción de tutela argumentando que la norma vulnera su derecho al libre desarrollo de la personalidad, amparándose en sentencias de la Corte Constitucional que han protegido este derecho en el ámbito escolar.",
+      "pregunta": "En esta colisión entre una norma interna (Manual de Convivencia) y un derecho fundamental protegido por la jurisprudencia constitucional, ¿cuál es el análisis correcto que debería hacer el Consejo Directivo al revisar el caso?"},
+  "respuesta": "Debe reconocerse la supremacía de la Constitución y los derechos fundamentales, lo que implica que la norma del manual debe ser inaplicada o modificada por ser restrictiva y desproporcionada.",
+  "ayuda": "En Colombia las leyes que se crean no pueden ir en contra de la Constitución, una norma pierde legitimidad cuando contradice la Constitución Política",
+  "distractores": ["El Manual de Convivencia tiene la máxima autoridad dentro de la institución, por lo tanto, la norma debe aplicarse sin excepción para mantener el orden.",
+"La autonomía escolar permite a la institución establecer sus propias reglas, por lo que la jurisprudencia de la Corte no es vinculante en este caso.",
+"El estudiante debe acogerse a la norma mientras esté matriculado, ya que la firma del acta de matrícula implica la aceptación total del Manual de Convivencia."]},
+{
+  "pregunta": {
+      "contexto": "En el Consejo Directivo de la Institución Educativa Técnico Industrial Tomás Carrasquilla se debate el destino de los fondos de calidad educativa. El Consejo Académico presenta un proyecto para invertir en una plataforma de software especializado para mejorar el nivel en las Pruebas Saber 11, argumentando un beneficio pedagógico a largo plazo. Por otro lado, el representante del Consejo de Padres solicita usar los fondos para reparar urgentemente los baños y las unidades sanitarias, citando problemas de salubridad que afectan el bienestar diario de los estudiantes.",
+      "pregunta": "¿Qué tipo de conflicto de intereses debe ponderar y resolver el Consejo Directivo en esta situación?"},
+  "respuesta": "Una tensión entre la visión pedagógica a largo plazo y las necesidades apremiantes de bienestar y salud pública de la comunidad.",
+  "ayuda": "La pregunta consulta por los intereses de parte y parte que el Consejo Directivo debe tomar en cuenta",
+  "distractores": ["Un conflicto entre la autonomía escolar y las directrices del Ministerio de Educación.",
+"Un debate puramente administrativo sobre cuál de los dos proyectos representa un menor costo para la institución.",
+"Una disputa de poder entre el estamento docente y el de los padres de familia por el control de los recursos institucionales."]}
+  ]
