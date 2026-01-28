@@ -1,0 +1,92 @@
+[
+{
+  "pregunta": {
+      "contexto": "El Proyecto Educativo Institucional (PEI) del Colegio define a la institución como un espacio para el “fomento del pensamiento crítico y la libre expresión”. Sin embargo, el rector ha emitido una circular prohibiendo la creación de cualquier tipo de publicación estudiantil (periódicos, blogs, etc.) sin la revisión y aprobación previa de su oficina, argumentando que es una medida para prevenir el matoneo y la desinformación.",
+      "pregunta": "La medida tomada por el rector podría ser cuestionada desde la perspectiva de la normatividad del Gobierno Escolar porque:"}, 
+  "respuesta": "Entra en contradicción con los principios y fines del PEI, que es la carta de navegación de la institución, y podría constituir una forma de censura previa.",
+  "ayuda": "La censura previa viola la libertad de expresión y contradice el PEI. Las normas del rector no pueden ir en contra de los principios institucionales de participación.",
+  "distractores": ["La única forma válida de prevenir el matoneo es a través de sanciones monetarias, según la Ley 1620 de 2013.",
+"Los estudiantes no tienen derecho a la libre expresión dentro de las instituciones educativas, pues este es un derecho solo para mayores de edad.",
+"El rector no tiene la facultad de emitir circulares, ya que esta es una función exclusiva del Consejo Académico."]},
+{
+  "pregunta": {
+      "contexto": "El Consejo Académico de una institución aprueba la implementación de un nuevo enfoque pedagógico para la enseñanza de las ciencias, el cual requiere la adquisición de costosos equipos de laboratorio. Sin embargo, al presentar la propuesta ante el Consejo Directivo, el representante de los padres de familia se opone, argumentando que el presupuesto de la institución no puede cubrir ese gasto sin sacrificar el mantenimiento básico de la infraestructura, que considera prioritario.",
+      "pregunta": "¿Cuál es la relación de competencias que se evidencia entre el Consejo Académico y el Consejo Directivo en esta situación?"},
+  "respuesta": "El Consejo Directivo ejerce una función de control y viabilidad, pues es el órgano encargado de las decisiones administrativas y financieras que materializan los proyectos pedagógicos.",
+  "ayuda": "Aunque el Consejo Académico lidera lo pedagógico, el Consejo Directivo administra los recursos. Sin viabilidad financiera aprobada por el Directivo, los proyectos académicos no pueden ejecutarse.",
+  "distractores": ["El representante de los padres de familia no tiene voz ni voto en decisiones sobre proyectos pedagógicos, limitándose a temas de comportamiento.",
+"Ambos consejos tienen exactamente las mismas funciones, por lo que la decisión debe tomarse por votación conjunta de todos sus miembros.",
+"El Consejo Académico tiene la última palabra, ya que las decisiones pedagógicas son su principal competencia y prevalecen sobre las administrativas."]},
+{
+  "pregunta": {
+      "contexto": "En una institución educativa, la participación en las elecciones para el Gobierno Escolar ha disminuido drásticamente en los últimos años. En un sondeo, la mayoría de los estudiantes afirma que “votar no cambia nada” y que “las decisiones importantes las toman siempre los directivos”. Este sentimiento generalizado de apatía refleja una baja percepción de influencia en el sistema.",
+      "pregunta": "Este fenómeno de apatía estudiantil puede analizarse desde el concepto de eficacia política, que se ve disminuida cuando:"},
+  "respuesta": "Los mecanismos de participación existen formalmente, pero los participantes perciben que sus acciones no tienen un impacto real en los resultados del sistema político escolar.",
+  "ayuda": "La 'eficacia política' depende de que el ciudadano sienta que su voz importa. Si votar no genera cambios reales, la participación se vuelve un acto vacío.",
+  "distractores": ["La institución educativa cuenta con un manual de convivencia muy estricto que limita la autonomía de los estudiantes.",
+"Los candidatos al gobierno escolar no realizan campañas electorales lo suficientemente atractivas para motivar a sus compañeros.",
+"Los estudiantes se enfocan más en sus responsabilidades académicas que en las actividades extracurriculares."]},
+{
+  "pregunta": {
+      "contexto": "El Personero Estudiantil recibe dos casos simultáneamente. El primero, de un estudiante que alega que un profesor se niega a recalificar un examen a pesar de existir errores evidentes en la corrección. El segundo, de un grupo de estudiantes que se quejan porque el único bebedero de agua del colegio lleva un mes dañado. El personero debe decidir qué vía de acción es más estratégica para cada caso.",
+      "pregunta": "Al igual que un Personero Municipal, el estudiante que ocupa este cargo debe demostrar una comprensión estratégica de su función. ¿Cuál de las siguientes acciones diferenciaría adecuadamente su rol en ambos casos?"},
+  "respuesta": "Utilizar la mediación y el diálogo directo con el docente para el caso del examen y radicar un derecho de petición a la rectoría para el caso del bebedero.",
+  "ayuda": "Cada problema requiere una herramienta distinta: la mediación resuelve conflictos académicos individuales, mientras que el Derecho de Petición formaliza exigencias sobre infraestructura y derechos colectivos.",
+  "distractores": ["Limitarse a escuchar las quejas y aconsejar a los estudiantes que solucionen los problemas por su propia cuenta, para fomentar la autonomía.",
+"Organizar una protesta en el patio del colegio para ambos casos, buscando presionar a las directivas a través de la movilización.",
+"Presentar una acción de tutela para ambos casos, ya que es el mecanismo más poderoso que existe para defender derechos."]},
+{
+  "pregunta": {
+      "contexto": "El manual de convivencia de un colegio religioso estipula que la educación impartida se basa en los valores y dogmas de su credo. Un grupo de estudiantes no creyentes solicita al Consejo Directivo que se les exima de asistir a la clase de religión y a las ceremonias litúrgicas, argumentando su derecho fundamental a la libertad de conciencia y de culto, consagrado en la Constitución.",
+      "pregunta": "¿Cómo debe la institución proteger el derecho fundamental a la libertad de conciencia sin renunciar a su identidad confesional establecida en el PEI?"},
+  "respuesta": "Ofreciendo una alternativa académica o formativa para los estudiantes que, de manera justificada, soliciten la exención, garantizando así su derecho sin afectar el del resto de la comunidad.",
+  "ayuda": "La libertad de culto es un derecho fundamental. El colegio debe garantizar alternativas formativas para quienes no profesan su fe, sin imponer creencias ni discriminarlos.",
+  "distractores": ["Eliminando por completo la clase de religión y las ceremonias para evitar conflictos, aunque esto vaya en contra de su propio PEI.",
+"Expulsando a los estudiantes que se nieguen a participar en las actividades religiosas para mantener la coherencia del proyecto educativo.",
+"Obligando a todos los estudiantes a asistir a las actividades religiosas, ya que al matricularse aceptaron el carácter confesional del colegio."]},
+{
+  "pregunta": {
+      "contexto": "El Consejo de Estudiantes aprueba por mayoría destinar los fondos de su presupuesto a la organización de un baile de fin de año. Un grupo minoritario de estudiantes protesta, argumentando que ese dinero debería usarse para crear un club de debate y un cine-foro, actividades que, según ellos, enriquecen más la vida académica y cultural de la institución.",
+      "pregunta": "Esta situación plantea un dilema clásico de la democracia sobre la relación entre la voluntad de la mayoría y los derechos o intereses de las minorías. La actuación del Consejo Estudiantil es:"},
+  "respuesta": "Legítima desde el punto de vista del gobierno de la mayoría, pero puede ser cuestionada desde una perspectiva de pluralismo y de la calidad del gasto.",
+  "ayuda": "La democracia no es solo la imposición de la mayoría. Aunque legal por votos, la decisión debe considerar el pluralismo, el beneficio colectivo y la calidad educativa.",
+  "distractores": ["Irrelevante, porque los fondos de los estudiantes no pueden ser ejecutados sin la autorización expresa del rector.",
+"Antidemocrática, porque las minorías tienen derecho a vetar cualquier decisión que no los beneficie directamente.",
+"Ilegítima, porque las decisiones democráticas siempre deben dejar satisfechos a todos los miembros de la comunidad."]},
+{
+  "pregunta": {
+      "contexto": "La rectora de una institución educativa, preocupada por el bajo rendimiento en las pruebas externas, decide utilizar los recursos destinados a las actividades del Gobierno Escolar (elecciones, capacitaciones, etc.) para contratar un curso intensivo de pre-ICFES para todos los estudiantes de grado 11°. La decisión no fue consultada con ningún órgano del gobierno escolar.",
+      "pregunta": "La decisión de la rectora, aunque bien intencionada académicamente, es problemática desde el punto de vista del funcionamiento del Gobierno Escolar porque:"},
+  "respuesta": "Desconoce la autonomía del Gobierno Escolar para gestionar sus propios recursos y debilita la estructura de participación al tomar una decisión unilateral sobre fondos ya asignados.",
+  "ayuda": "El rector no puede desviar fondos arbitrariamente. Los recursos del Gobierno Escolar tienen una destinación específica y su uso debe respetar la autonomía y participación estudiantil.",
+  "distractores": ["La rectora debería haber utilizado sus propios recursos y no los de la institución para financiar el curso.",
+"Los estudiantes de grado 11° no deberían ser los únicos beneficiados, pues la preparación debe empezar desde antes.",
+"Los cursos de pre-ICFES no garantizan que los estudiantes obtengan buenos resultados en las pruebas de Estado."]},
+{
+  "pregunta": {
+      "contexto": "Un estudiante es elegido representante al Consejo Directivo. Durante las reuniones, observa que los representantes de los docentes y los directivos utilizan un lenguaje técnico y jurídico muy complejo para discutir las normas y el presupuesto. El estudiante se siente intimidado y no participa activamente, a pesar de tener ideas claras que quisiera proponer.",
+      "pregunta": "¿Qué barrera para la participación estudiantil efectiva se evidencia en esta situación?"},
+  "respuesta": "Una barrera de capital cultural y simbólico, donde la asimetría en el manejo del lenguaje y los códigos formales limita la capacidad de incidencia real de un actor.",
+  "ayuda": "El lenguaje técnico excluye. Si el estudiante no domina los códigos de comunicación 'expertos', su participación se vuelve ineficaz, creando una desigualdad de poder en la mesa.",
+  "distractores": ["Una barrera física, puesto que el espacio donde se realiza el Consejo Directivo no es adecuado para el diálogo.",
+"Una barrera de voluntad, ya que el estudiante demuestra una clara falta de interés y compromiso con su rol como representante.",
+"Una barrera normativa, ya que la ley prohíbe que los estudiantes opinen sobre temas presupuestales."]},
+{
+  "pregunta": {
+      "contexto": "El Personero Estudiantil, al iniciar su mandato, realiza un diagnóstico y encuentra que la principal queja de los estudiantes es la falta de canales efectivos para reportar casos de acoso escolar de forma segura y anónima. Su principal propuesta de gestión es la creación e implementación de un “buzón de confianza virtual”, en colaboración con el departamento de orientación escolar.",
+      "pregunta": "La importancia de esta propuesta radica en que:"},
+  "respuesta": "Se enfoca en la promoción de los Derechos Humanos al crear una herramienta que busca garantizar un entorno escolar seguro y proteger la dignidad e integridad de los estudiantes.",
+  "ayuda": "La función central del Personero es defender los Derechos Humanos. Crear canales seguros prioriza la protección de la dignidad estudiantil sobre la burocracia institucional.",
+  "distractores": ["Resuelve definitivamente el problema del acoso escolar en la institución sin necesidad de tomar otras medidas.",
+"Reemplaza por completo las funciones del Comité de Convivencia Escolar, haciendo que este sea innecesario.",
+"Permite al personero acumular poder al centralizar toda la información sobre los problemas de convivencia."]},
+{
+  "pregunta": {
+      "contexto": "Durante la campaña para la personería, un candidato basa toda su propuesta en promesas que están fuera de su competencia, como “días sin clase” y “cambiar a todos los profesores del área de matemáticas”. A pesar de la inviabilidad de sus propuestas, resulta electo por una abrumadora mayoría.",
+      "pregunta": "Este fenómeno es preocupante para la cultura democrática de la institución porque:"},
+  "respuesta": "Evidencia que el electorado estudiantil vota de manera desinformada, dejándose llevar por el populismo en lugar de analizar la viabilidad y pertinencia de las propuestas.",
+  "ayuda": "El voto debe ser crítico e informado. Elegir propuestas inviables daña la democracia escolar, pues prioriza la emoción populista sobre una gestión real y posible.",
+  "distractores": ["Garantiza que el nuevo personero tendrá que negociar con las directivas para poder cumplir, fortaleciendo así el diálogo.",
+"Sugiere que las clases y la calidad de los docentes son los únicos problemas que realmente importan en el colegio.",
+"Demuestra que el candidato ganador es un líder carismático con gran capacidad de persuasión."]}
+  ]
