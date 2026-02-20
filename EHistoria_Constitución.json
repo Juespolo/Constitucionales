@@ -1,0 +1,92 @@
+[
+{
+  "pregunta": {
+      "contexto": "A finales de la década de 1980 y principios de los 90, los jóvenes colombianos, a través de movimientos estudiantiles jugaron un papel crucial en la exigencia de una reforma constitucional. Su activa participación y la conciencia sobre la necesidad de un cambio institucional contribuyeron significativamente al ambiente que hizo posible la convocatoria de la Asamblea Nacional Constituyente en 1991.",
+      "pregunta": "¿Cuál fue la principal forma de participación de los jóvenes que impulsó el proceso de reforma constitucional que culminó en la Constitución de 1991?"},
+  "respuesta": "La demanda de una Asamblea Constituyente a través de iniciativas como la “Séptima Papeleta”.",
+   "ayuda": "El contexto resalta la exigencia estudiantil de cambio institucional. Históricamente, este movimiento se materializó impulsando la «Séptima Papeleta» para convocar la Asamblea Constituyente, descartando opciones violentas o electorales irregulares.",
+  "distractores": ["Su participación en cargos de elección popular a pesar de no tener la edad requerida.",
+"La organización de grupos armados ilegales para presionar por el cambio político.",
+"Su masiva inscripción en los partidos políticos tradicionales para lograr los votos necesarios y generar el cambio."]},
+{
+  "pregunta": {
+      "contexto": "La Constitución Política de Colombia de 1991, en su parte dogmática, establece los principios fundamentales, los derechos y deberes de las personas y los mecanismos para su protección. En su parte orgánica, define la estructura del Estado, la organización de los poderes públicos y las funciones de los diferentes órganos que lo componen, buscando un equilibrio de poderes y la garantía de los derechos ciudadanos. La acción de tutela es uno de los mecanismos de protección de los derechos humanos más efectivos, pues esta herramienta permite que cualquier ciudadano colombiano pueda defender de manera inmediata sus derechos constitucionales fundamentales cuando estos hayan sido vulnerados.",
+      "pregunta": "¿En cuál de las siguientes partes de la Constitución Política de Colombia de 1991 se encuentra la Acción de Tutela?"},
+  "respuesta": "En el Título de la Protección y Aplicación de los Derechos (Artículo 83 al 94).",
+  "ayuda": "Dado que el texto define la tutela como mecanismo para defender garantías fundamentales, su ubicación constitucional lógica corresponde al título destinado específicamente a la protección y aplicación de derechos.",
+  "distractores": ["En el Título de los Derechos, las Garantías y los Deberes (Artículo 11 al 41).",
+"En el Título de los Principios Fundamentales (Artículo 1 al 10).",
+"En el Título de los Derechos Sociales, Económicos y Culturales (Artículo 42 al 77)."]},
+{
+  "pregunta": {
+      "contexto": "El artículo 2 de la Constitución Política de Colombia establece los fines esenciales del Estado, entre los cuales se encuentran servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución. Estos fines orientan la acción del Estado y buscan asegurar el bienestar y la protección de todos los ciudadanos.",
+      "pregunta": "¿Cuál de las siguientes acciones estatales se alinea directamente con el fin esencial de “garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución”?"},
+  "respuesta": "La implementación de políticas públicas para asegurar el acceso a la salud y la educación para todos los ciudadanos.",
+  "ayuda": "Garantizar derechos constitucionales exige acciones afirmativas. Implementar políticas públicas en salud y educación materializa este bienestar social, descartando alternativas que restringen libertades o favorecen exclusivamente intereses económicos particulares.",
+  "distractores": ["La restricción de la libertad de prensa en situaciones de emergencia nacional para evitar afectaciones al orden público.",
+"La priorización de la inversión en infraestructura vial en las zonas urbanas para lograr el desarrollo económico.",
+"La reducción de impuestos a las grandes empresas para fomentar la inversión."]},
+{
+  "pregunta": {
+      "contexto": "Colombia, como nación pluriétnica y multicultural reconocida en su Constitución, alberga una gran diversidad de pueblos indígenas, comunidades afrocolombianas y otros grupos étnicos con sus propias lenguas, tradiciones, cosmovisiones y formas de organización social. El Estado tiene la obligación de proteger y promover esta diversidad como riqueza fundamental de la nación.",
+      "pregunta": "¿Cuál de las siguientes medidas adoptadas por el Estado colombiano refleja el reconocimiento y protección de la diversidad étnica y cultural?"},
+  "respuesta": "La implementación de programas educativos que incluyan la enseñanza de las lenguas nativas y la historia de los diferentes grupos étnicos.",
+  "ayuda": "Proteger la diversidad cultural implica preservarla activamente. Enseñar lenguas nativas e historia étnica cumple este mandato constitucional, invalidando opciones que promueven exclusión, asimilación forzada o centralismo lingüístico.",
+  "distractores": ["La exclusión de las manifestaciones culturales minoritarias de los espacios públicos para evitar conflictos.",
+"La restricción de la autonomía territorial de las comunidades indígenas y afrocolombianas para asegurar la aplicación uniforme de las leyes.",
+"La promoción de una única lengua oficial en las instituciones públicas para garantizar la unidad nacional."]},
+{
+  "pregunta": {
+      "contexto": "La constitución es la ley de leyes y la fuente de toda la jurisprudencia en un Estado de derecho. Por esta razón, cada una de las normas que se expidan debe ajustarse a los principios y mandatos constitucionales.",
+      "pregunta": "De acuerdo con lo anterior, ¿cuál es la principal utilidad de una Constitución?"},
+  "respuesta": "Definir un orden jurídico y un marco normativo que delimita el poder del Estado y establecer qué es lo legal.",
+  "ayuda": "Al definirse como «ley de leyes», la utilidad constitucional suprema radica en establecer el marco normativo estructural que delimita el poder estatal y define la legalidad del ordenamiento jurídico.",
+  "distractores": ["Garantizar la paz y la prosperidad de las naciones, al expresar los acuerdos y los compromisos de cada ciudadano con la sociedad.",
+"Facilitar la labor de los jueces, al asumir la tarea de impartir justicia, de manera imparcial y oportuna.",
+"Impartir justicia y orientar las acciones del Poder Ejecutivo en un Estado social de derecho como el colombiano."]},
+{
+  "pregunta": {
+      "contexto": "En el sistema de democracia representativa colombiano, los ciudadanos eligen periódicamente a sus gobernantes y representantes a través de elecciones. Sin embargo, la efectividad de esta representación depende en gran medida de la capacidad de los elegidos para rendir cuentas de su gestión y para realmente representar los intereses de sus electores.",
+      "pregunta": "¿Qué elemento es fundamental para asegurar que la democracia representativa funcione de manera efectiva en Colombia?"},
+  "respuesta": "La rendición de cuentas por parte de los representantes electos ante sus electores y la ciudadanía en general.",
+  "ayuda": "El texto subraya que la eficacia representativa depende de justificar la gestión. Por tanto, la rendición de cuentas ante los electores constituye el elemento indispensable para legitimar este modelo democrático.",
+  "distractores": ["La eliminación de la financiación privada de las campañas políticas para evitar la influencia de intereses particulares.",
+"La existencia de un sistema de partidos políticos fuerte y cohesionado.",
+"La prohibición de la reelección de los cargos públicos para garantizar la renovación de la clase política."]},
+{
+  "pregunta": {
+      "contexto": "En la Constitución Política de Colombia se establece que los derechos de los menores de edad están por encima de los de otros particulares. Por lo anterior, si un menor de catorce años comete un delito no puede ser enviado a prisión y debe ser juzgado según un código penal diferente del ordinario. Un presidente de turno considera que, debido a este trato especial que se da en el juzgamiento de los menores, la delincuencia juvenil ha ido incrementándose; por ello, decide convocar a la ciudadanía para conocer si esta apoyaría que se anule la norma constitucional que pone los derechos de los menores por encima de los del resto de la población.",
+      "pregunta": "De acuerdo con los mecanismos de participación directa que contempla la Constitución, ¿cuál de los siguientes es el adecuado para que el presidente pueda adelantar su iniciativa?"},
+  "respuesta": "El referendo.",
+  "ayuda": "Modificar o anular una norma consagrada en la Constitución requiere un mecanismo específico de participación normativa. Jurídicamente, el referendo es el instrumento idóneo para aprobar o derogar reformas constitucionales.",
+  "distractores": ["El cabildo abierto.",
+"La consulta popular.",
+"El plebiscito."]},
+{
+  "pregunta": {
+      "contexto": "Una compañía petrolera identificó un yacimiento en una zona en la que vive una comunidad indígena, para la cual extraer el petróleo significa “robarle la sangre a la madre tierra”, y por ello se opone a la explotación del yacimiento. La compañía invirtió muchos recursos en un proceso de diálogo con los representantes de la comunidad, pero fue imposible llegar a un acuerdo. Ante esto, y después de un análisis detenido de las posiciones, el Estado le negó a la empresa el permiso de explotación.",
+      "pregunta": "De acuerdo con la Constitución, ¿cuál es la razón que mejor sustenta la decisión del Estado?"},
+  "respuesta": "El Estado debe proteger la diversidad étnica y cultural.",
+  "ayuda": "La oposición comunitaria se fundamenta en su cosmovisión ancestral, no en regulaciones ecológicas generales. Así, el Estado prioriza su deber constitucional imperativo de proteger la diversidad étnica y cultural.",
+  "distractores": ["El Estado debe proteger el medio ambiente.",
+"El Estado debe garantizar el derecho al trabajo.",
+"El Estado debe garantizar el derecho a la igualdad."]},
+{
+  "pregunta": {
+      "contexto": "La Constitución de 1991 estableció que los gobernadores y los alcaldes contraen con sus electores la obligación de cumplir el programa de gobierno que presentaron al inscribirse como candidatos. En un municipio, la ciudadanía está insatisfecha con la gestión de su alcalde y considera que no está cumpliendo con el programa de gobierno por el cual fue elegido. Un grupo de ciudadanos indignados decide organizar un proceso para recoger firmas con el objetivo de convocar a una votación para hacer respetar su elección como ciudadanos.",
+      "pregunta": "El incumplimiento del programa de gobierno por parte del alcalde puede dar lugar a que:"},
+  "respuesta": "Se convoque a elecciones para revocar al alcalde por decisión popular.",
+  "ayuda": "El incumplimiento del programa de gobierno por parte de un mandatario local faculta constitucionalmente a los ciudadanos para utilizar el mecanismo participativo diseñado para destituirlo: la revocatoria del mandato.",
+  "distractores": ["El presidente decida si se aprueban o no el programa de gobierno del alcalde.",
+"Con una nueva votación el alcalde se vea obligado a ejecutar el programa que presentó en campaña.",
+"Se convoque al pueblo para que apruebe un nuevo programa de gobierno para el alcalde."]},
+{
+  "pregunta": {
+      "contexto": "La democracia en Colombia se fundamenta en la elección de representantes, pero también reconoce la importancia de la participación activa de los ciudadanos en la toma de decisiones y en el control de la gestión pública. La combinación de estos dos aspectos busca fortalecer la legitimidad del sistema democrático y garantizar que las decisiones del Estado reflejen la voluntad popular.",
+      "pregunta": "¿Cuál es la importancia de la articulación entre la democracia representativa y la democracia participativa en Colombia?"},
+  "respuesta": "Busca que la toma de decisiones políticas sea influenciada tanto por los representantes elegidos como por la participación directa de los ciudadanos, fortaleciendo la legitimidad y la inclusión.",
+  "ayuda": "El texto expone una sinergia institucional. La articulación democrática no elimina representantes ni genera caos; combina la gestión gubernamental con la incidencia ciudadana directa para fortalecer la legitimidad estatal.",
+  "distractores": ["Genera confusión y conflictos entre los diferentes niveles de participación ciudadana.",
+"Asegura que los representantes elegidos tengan la última palabra en todas las decisiones, sin necesidad de consultar a los ciudadanos.",
+"Permite que los ciudadanos tomen todas las decisiones directamente, sin necesidad de representantes."]}
+  ]
