@@ -1,0 +1,92 @@
+[
+{
+  "pregunta": {
+      "contexto": "En la década de 1980, Colombia experimentó una profunda crisis social y política marcada por la violencia del narcotráfico, la actividad guerrillera y la necesidad de una mayor participación ciudadana. Este contexto generó un clamor popular por una reforma constitucional que permitiera construir un marco jurídico más incluyente y democrático. El proceso culminó con la convocatoria de una Asamblea Nacional Constituyente cuyos delegatarios, elegidos por voto popular, redactaron la nueva Carta Magna que entró en vigencia en 1991.",
+      "pregunta": "¿Cuál fue el principal factor que impulsó la necesidad de una nueva Constitución Política en Colombia a finales del siglo XX?"},
+  "respuesta": "La creciente demanda ciudadana por una mayor participación y la búsqueda de soluciones a la profunda crisis del país.",
+  "ayuda": "El análisis del contexto histórico evidencia que la crisis sociopolítica y la demanda por mayor participación ciudadana fueron los catalizadores fundamentales para instaurar la nueva reforma constitucional.",
+  "distractores": ["La estabilidad política y social que permitía modernizar las instituciones del Estado.",
+"El consenso entre las élites políticas sobre la necesidad de actualizar la estructura administrativa del país.",
+"La estabilidad política y social que permitía modernizar las instituciones del Estado."]},
+{
+  "pregunta": {
+      "contexto": "El primer artículo de la Constitución Política de Colombia de 1991 establece que “Colombia es un Estado social de derecho, organizado en forma de República unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participativa y pluralista, fundada en el respeto de la dignidad humana, en el trabajo y la solidaridad de las personas que la integran y en la prevalencia del interés general.”",
+      "pregunta": "De acuerdo con el artículo primero de la Constitución, ¿cuál de los siguientes enunciados NO corresponde a un principio fundamental del Estado colombiano?"},
+  "respuesta": "La organización del Estado bajo un modelo federal.",
+  "ayuda": "El artículo primero define a Colombia como una república unitaria. Por consiguiente, al requerirse el enunciado incorrecto, se debe identificar el modelo federal, ajeno al ordenamiento jurídico nacional.",
+  "distractores": ["La adopción de un sistema democrático y participativo.",
+"El reconocimiento de la dignidad humana como base esencial.",
+"El respeto por la autonomía de las entidades territoriales."]},
+{
+  "pregunta": {
+      "contexto": "La Constitución de 1991 reconoció por primera vez el carácter pluriétnico y multicultural de la nación colombiana. Este reconocimiento implicó un cambio fundamental en la concepción del país, pasando de una visión homogénea a una que valora y protege la diversidad étnica y cultural de los pueblos indígenas, las comunidades afrocolombianas, el pueblo Rom y otros grupos minoritarios presentes en el territorio nacional.",
+      "pregunta": "¿Qué implicación fundamental tuvo el reconocimiento del carácter pluriétnico y multicultural en la Constitución de 1991 para las comunidades étnicas de Colombia?"},
+  "respuesta": "La garantía de derechos específicos y la protección de sus territorios, culturas y formas de vida.",
+  "ayuda": "El reconocimiento constitucional de la diversidad étnica exige la garantía de derechos específicos y la protección territorial, invalidando cualquier alternativa que sugiera asimilación cultural o exclusión política.",
+  "distractores": ["La exclusión de su participación en la vida política del país para evitar conflictos culturales.",
+"La creación de incentivos económicos para que abandonaran sus tradiciones y se modernizaran.",
+"La obligación de adoptar la cultura dominante para lograr una mayor integración nacional."]},
+{
+  "pregunta": {
+      "contexto": "El Estado colombiano se organiza en tres ramas del poder público: la Rama Legislativa, encargada de hacer las leyes; la Rama Ejecutiva, encargada de ejecutar las leyes y administrar el Estado; y la Rama Judicial, encargada de administrar justicia y resolver los conflictos. Además, existen órganos autónomos e independientes como la Contraloría General de la Nación, la Procuraduría General de la Nación, la Registraduría Nacional del Estado Civil y el Banco de la República, entre otros, que cumplen funciones específicas de control y garantía de derechos.",
+      "pregunta": "¿Cuál de las siguientes autoridades pertenece a la Rama Ejecutiva del poder público en Colombia?"},
+  "respuesta": "La Presidencia de la República.",
+  "ayuda": "La Rama Ejecutiva se encarga de la administración del Estado. En este nivel, la Presidencia de la República constituye su máxima autoridad, diferenciándose de las ramas legislativa y judicial.",
+  "distractores": ["La Procuraduría General de la Nación.",
+"El Congreso de la República.",
+"La Corte Suprema de Justicia."]},
+{
+  "pregunta": {
+      "contexto": "La función principal del Congreso de la República, como parte de la Rama Legislativa, es la de expedir las leyes. Sin embargo, también tiene otras funciones importantes como la de reformar la Constitución, ejercer control político sobre el Gobierno y aprobar el Presupuesto General de la Nación. Por su parte, la Fiscalía General de la Nación, perteneciente a la Rama Judicial, tiene como función principal investigar los delitos y acusar a los presuntos responsables ante los jueces.",
+      "pregunta": "¿Cuál es la función primordial de la Fiscalía General de la Nación dentro del sistema estatal colombiano?"},
+  "respuesta": "Investigar y acusar a los responsables de cometer delitos.",
+  "ayuda": "El texto expone las competencias institucionales. Para identificar la respuesta, es preciso vincular a la Fiscalía General con su función constitucional exclusiva: investigar delitos y acusar presuntos responsables.",
+  "distractores": ["Administrar los recursos públicos y ejecutar las políticas del Gobierno.",
+"Velar por el cumplimiento de la Constitución y las leyes.",
+"Elaborar y aprobar las leyes que rigen la sociedad."]},
+{
+  "pregunta": {
+      "contexto": "En Colombia, la democracia representativa se manifiesta principalmente a través de la elección popular de representantes para ocupar cargos en el Congreso de la República, las asambleas departamentales, los concejos municipales y la Presidencia de la República. Estos representantes son quienes, en nombre del pueblo, toman decisiones y elaboran las leyes que rigen la vida en sociedad. Sin embargo, este modelo también enfrenta desafíos relacionados con la rendición de cuentas y la efectiva representación de los intereses ciudadanos.",
+      "pregunta": "¿Cuál es la principal característica de la democracia representativa en Colombia?"},
+  "respuesta": "La elección de representantes por medio del voto popular para que actúen en nombre del pueblo.",
+  "ayuda": "La democracia representativa se fundamenta en la delegación del poder político. Los ciudadanos ejercen su soberanía eligiendo mediante el voto popular a representantes que actuarán en su nombre.",
+  "distractores": ["La concentración del poder político en un único líder elegido de forma vitalicia.",
+"La ausencia de partidos políticos y la toma de decisiones por consenso comunitario.",
+"La participación directa de todos los ciudadanos en la toma de decisiones políticas."]},
+{
+  "pregunta": {
+      "contexto": "En las elecciones legislativas colombianas, los ciudadanos acuden a las urnas para elegir senadores y representantes a la Cámara. Estos congresistas, una vez elegidos, se encargan de debatir y aprobar las leyes en el Congreso. De igual forma, cada cuatro años se realizan elecciones presidenciales para elegir al jefe de Estado y de Gobierno. Estas elecciones son una expresión fundamental del principio de la democracia representativa en el país.",
+      "pregunta": "¿Cuál de los siguientes actos constituye una aplicación de la democracia representativa en Colombia?"},
+  "respuesta": "La votación en las elecciones para elegir alcaldes y gobernadores.",
+  "ayuda": "La aplicación del modelo representativo requiere un proceso electoral para delegar el poder. Por tanto, la elección de gobernantes locales mediante sufragio constituye su manifestación práctica más evidente.",
+  "distractores": ["La organización de una consulta popular para decidir sobre un tema de interés local.",
+"La participación en una protesta social para exigir el cumplimiento de derechos.",
+"La presentación de un derecho de petición por un ciudadano ante una entidad pública."]},
+{
+  "pregunta": {
+      "contexto": "En el plan de desarrollo departamental, se propuso la construcción de una gran carretera que eludiría el paso por múltiples pueblos que tradicionalmente se sostienen con la actividad turística y la venta de productos locales. La construcción de la obra presenta una tensión, pues los municipios afectados tendrían el riesgo de perder los modos de supervivencia de muchos habitantes del pueblo.",
+      "pregunta": "Ante esta situación, las personas afectadas de estos municipios pueden:"},
+  "respuesta": "Promover una Acción popular para proteger el interés colectivo de las personas afectadas por la obra y evitar la contingencia.",
+  "ayuda": "Ante la amenaza o vulneración de intereses colectivos, como el impacto socioeconómico en una comunidad, el marco constitucional establece la Acción Popular como el mecanismo idóneo de protección.",
+  "distractores": ["Interponer una acción de tutela a los contratistas para evitar la construcción de la carretera y proteger el derecho al trabajo.",
+"Instaurar una demanda para alegar la inestabilidad económica y social que esta obra causaría.",
+"Presentar un derecho de petición a la secretaría de movilidad y medio ambiente para que no se haga el proyecto."]},
+{
+  "pregunta": {
+      "contexto": "En el municipio, la comunidad está en desacuerdo con la construcción de un proyecto urbanístico que afectaría una zona de reserva natural. Los ciudadanos deciden utilizar un mecanismo de participación para expresar su oposición y buscar que las autoridades municipales reconsideren la decisión. Para ello, recolectan firmas y solicitan un espacio para exponer sus argumentos y escuchar la posición de la administración municipal.",
+      "pregunta": "¿Cuál mecanismo de participación democrática están utilizando los ciudadanos en la situación descrita?"},
+  "respuesta": "El cabildo abierto.",
+  "ayuda": "La congregación pública convocada para que la ciudadanía debata directamente asuntos de interés comunitario con la administración local, previa recolección de firmas, corresponde jurídicamente a un cabildo abierto.",
+  "distractores": ["La consulta popular.",
+"La revocatoria del mandato.",
+"El plebiscito."]},
+{
+  "pregunta": {
+      "contexto": "Si bien la democracia representativa es el modelo predominante en Colombia, la Constitución de 1991 busca complementarlo y fortalecerlo a través de la implementación de mecanismos de democracia participativa. Estos mecanismos permiten a los ciudadanos incidir directamente en la toma de decisiones, fiscalizar la gestión pública y expresar sus opiniones sobre temas de interés nacional, departamental o local, enriqueciendo así el ejercicio del poder político.",
+      "pregunta": "¿Cómo se relacionan la democracia representativa y la democracia participativa en el marco de la Constitución Política de Colombia de 1991?"},
+  "respuesta": "La democracia participativa complementa y fortalece la democracia representativa al permitir una mayor intervención ciudadana en los asuntos públicos.",
+  "ayuda": "La Constitución de 1991 no sustituye el modelo representativo, sino que lo robustece. La participación ciudadana interviene como un eje complementario para fortalecer la gestión y decisión política.",
+  "distractores": ["La democracia representativa es la única forma válida de democracia reconocida por la Constitución, mientras que la participativa es solo un mecanismo consultivo.",
+"La democracia participativa busca reemplazar la democracia representativa como forma principal de gobierno.",
+"Son modelos opuestos e incompatibles que buscan diferentes formas de organización política."]}
+  ]
