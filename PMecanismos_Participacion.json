@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En el municipio de “Ríoclaro”, una empresa minera ha recibido una licencia ambiental para iniciar un proyecto de extracción de oro a gran escala. Un grupo de habitantes y agricultores de la zona considera que el proyecto contaminará la principal fuente de agua de la que dependen sus cultivos y el consumo doméstico. El grupo desea que la decisión sobre la ejecución del proyecto sea sometida a votación de todos los habitantes del municipio.",
+      "pregunta": "Según la Constitución Política de Colombia, ¿cuál es el mecanismo de participación ciudadana idóneo que permite a los habitantes de “Ríoclaro” tomar una decisión directa sobre la conveniencia del proyecto minero?"
+    },
+    "respuesta": "La consulta popular, ya que permite someter a consideración del pueblo una decisión del ejecutivo local.",
+    "ayuda": "La consulta popular es el mecanismo ideal para que los ciudadanos decidan directamente mediante votación sobre asuntos de trascendencia local o nacional, como proyectos mineros.",
+    "distractores": [
+      "El cabildo abierto, porque es una reunión pública para que la comunidad discuta libremente temas de interés.",
+      "La acción de tutela, dado que busca proteger el derecho fundamental al medio ambiente sano de la comunidad.",
+      "La revocatoria del mandato, pues permite castigar al alcalde por haber permitido la licencia del proyecto."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un colectivo de ciclistas urbanos de una ciudad capital está frustrado por la falta de una política pública de seguridad vial para ellos. Han decidido organizarse para promover una ley que obligue a las ciudades capitales a destinar un porcentaje fijo de su presupuesto de infraestructura para la construcción y mantenimiento de ciclorrutas seguras. Quieren que esta propuesta sea estudiada y eventualmente votada por el Congreso de la República.",
+      "pregunta": "De acuerdo con la Ley 134 de 1994, para que la propuesta del colectivo de ciclistas pueda ser presentada como una iniciativa popular legislativa ante el Congreso, ¿qué requisito fundamental deben cumplir?"
+    },
+    "respuesta": "Presentar un proyecto de ley respaldado por las firmas de al menos el 5% del censo electoral vigente.",
+    "ayuda": "Para presentar una iniciativa popular legislativa en Colombia, la ley exige el respaldo de firmas equivalente al 5% de los ciudadanos inscritos en el censo electoral.",
+    "distractores": [
+      "Realizar una consulta popular en todas las ciudades capitales para validar el apoyo ciudadano al proyecto.",
+      "Obtener el apoyo formal de al menos el 30% de los concejales de las ciudades capitales del país.",
+      "Demostrar a través de un estudio técnico que la falta de ciclorrutas es la principal causa de accidentalidad."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante las elecciones locales, un candidato a la alcaldía del municipio Santo Domingo basa toda su campaña en la promesa de “crear una nueva ley municipal que prohíba el consumo de alcohol en todos los parques”. Un ciudadano, al escuchar la propuesta, comenta que, aunque la idea le parece interesante, cree que la competencia para crear ese tipo de normas generales en el municipio no recae directamente en el alcalde.",
+      "pregunta": "El comentario del ciudadano es correcto porque la función de aprobar las normas y reglamentos de carácter municipal, como la propuesta por el candidato, corresponde principalmente a:"
+    },
+    "respuesta": "El Concejo Municipal, como corporación administrativa encargada de expedir acuerdos.",
+    "ayuda": "Los alcaldes ejecutan, pero es el Concejo Municipal la corporación administrativa encargada de debatir y aprobar las normas locales, conocidas normativamente como acuerdos municipales.",
+    "distractores": [
+      "El Presidente de la República, a través de un decreto con fuerza de ley para todo el territorio.",
+      "El alcalde municipal, ya que es la máxima autoridad ejecutiva y de policía en el municipio.",
+      "Los jueces de la República, quienes interpretan la ley y la aplican a casos concretos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un debate sobre la calidad de la democracia en Colombia, dos analistas presentan sus posturas: <br><br>Analista 1: “La democracia colombiana ha avanzado enormemente. La Constitución de 1991 nos dio herramientas como el plebiscito, el referendo y la consulta popular. El hecho de que existan y se usen, como en el Acuerdo de Paz, demuestra que la ciudadanía tiene el poder de influir directamente en las decisiones más importantes del país”. <br><br>Analista 2: “La existencia formal de mecanismos no garantiza una democracia participativa real. Lo que vemos es una alta abstención en las votaciones, poco uso de la iniciativa popular y una ciudadanía que desconfía de la política. Sin una cultura de participación activa y una ciudadanía informada, los mecanismos son solo letra muerta”.",
+      "pregunta": "¿Cuál es el punto central de desacuerdo en la argumentación de los dos analistas?"
+    },
+    "respuesta": "Si la existencia formal de mecanismos de participación es suficiente para calificar una democracia como participativa.",
+    "ayuda": "Identifica la premisa principal de cada analista: uno defiende el diseño institucional legal, mientras el otro cuestiona su efectividad práctica en ausencia de una ciudadanía activa.",
+    "distractores": [
+      "Si el plebiscito por la paz fue un mecanismo de participación ciudadana adecuado para refrendar el acuerdo.",
+      "Si la Constitución de 1991 fue un avance real para la democracia en comparación con la de 1886.",
+      "Si la abstención electoral es el principal problema que enfrentan los mecanismos de participación en Colombia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El artículo 103 de la Constitución Política de Colombia establece que “Son mecanismos de participación del pueblo en ejercicio de su soberanía: el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato”. Una organización social afirma que la existencia de estos mecanismos es la principal característica que define a Colombia como una democracia participativa y no solo representativa.",
+      "pregunta": "La afirmación de la organización social se basa en que estos mecanismos permiten a los ciudadanos:"
+    },
+    "respuesta": "Intervenir directamente en las decisiones públicas, más allá de solo elegir a sus representantes.",
+    "ayuda": "La democracia participativa trasciende el acto de votar para elegir gobernantes; empodera al ciudadano para decidir activamente sobre leyes, mandatos y políticas públicas relevantes.",
+    "distractores": [
+      "Fiscalizar exclusivamente el uso que los funcionarios públicos le dan a los recursos del Estado.",
+      "Elegir y ser elegidos para los cargos públicos más importantes de las ramas del poder.",
+      "Organizar protestas y manifestaciones pacíficas para expresar su descontento con el gobierno."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El alcalde de “Villa Progreso” fue elegido con la promesa de no subir el impuesto predial. A mitad de su mandato, el municipio enfrenta una grave crisis fiscal y el alcalde, argumentando que es la única solución para financiar la educación y la salud, propone al Concejo un aumento del 50% en dicho impuesto. Un grupo de ciudadanos, sintiéndose traicionados, inicia un proceso de revocatoria del mandato. Otro grupo, aunque descontento con el alza de impuestos, cree que la revocatoria generaría una parálisis administrativa perjudicial.",
+      "pregunta": "Para analizar la situación desde múltiples perspectivas, ¿cuál de las siguientes preguntas sería más útil?"
+    },
+    "respuesta": "¿Existen otras alternativas de financiación que el alcalde no haya considerado para solucionar la crisis fiscal?",
+    "ayuda": "Una buena pregunta analítica debe ser neutral y evaluar holísticamente el panorama, abordando tanto la motivación del alcalde (crisis fiscal) como el reclamo ciudadano (alza de impuestos).",
+    "distractores": [
+      "¿El alcalde violó la ley al proponer un aumento de impuestos en contra de su promesa de campaña?",
+      "¿Cuántos ciudadanos se necesitarían para que el proceso de revocatoria del mandato sea legalmente válido?",
+      "¿Qué partido político tiene la mayoría en el Concejo Municipal que debe aprobar el aumento de impuestos?"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un informe de la Registraduría Nacional revela que en las últimas elecciones legislativas, el departamento de “La Montaña” tuvo un nivel de abstención del 65%, el más alto del país. El informe sugiere que este fenómeno está relacionado con la desconfianza en los partidos políticos tradicionales y las dificultades geográficas de acceso a los puestos de votación en zonas rurales.",
+      "pregunta": "Una consecuencia directa de este alto nivel de abstencionismo para el sistema democrático en “La Montaña” es que los líderes elegidos:"
+    },
+    "respuesta": "Representan a una minoría de la población, lo que puede debilitar su legitimidad política y social.",
+    "ayuda": "La alta abstención significa que los gobernantes son elegidos por una minoría, lo que genera un déficit de representatividad y cuestiona su legitimidad frente a la mayoría ciudadana.",
+    "distractores": [
+      "Tienen la obligación legal de organizar nuevas elecciones en las zonas con mayor abstención.",
+      "Tienden a enfocarse más en las necesidades de las zonas rurales, que son las más difíciles de alcanzar.",
+      "Reciben menos recursos del Estado para financiar sus campañas políticas en futuras elecciones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un ciudadano es elegido como jurado de votación para las elecciones presidenciales. Durante la jornada, observa varias irregularidades, incluyendo la compra de votos a las afueras del puesto de votación. Al finalizar el día, se acerca a un funcionario de la Registraduría y le pregunta qué puede hacer al respecto. El funcionario le explica que la ley electoral le otorga a él, como ciudadano, una herramienta para vigilar el proceso electoral.",
+      "pregunta": "De acuerdo con las normas de participación, la herramienta a la que probablemente se refiere el funcionario es:"
+    },
+    "respuesta": "El derecho a conformar una veeduría ciudadana para vigilar la gestión pública y los resultados electorales.",
+    "ayuda": "Las veedurías ciudadanas son el mecanismo democrático de control social mediante el cual los ciudadanos pueden organizarse para vigilar y fiscalizar la gestión pública y electoral.",
+    "distractores": [
+      "El derecho a interponer una acción de tutela para proteger su derecho fundamental a la transparencia.",
+      "El derecho a solicitar la revocatoria del mandato del presidente que resulte elegido mediante fraude.",
+      "El derecho a convocar un cabildo abierto para discutir públicamente los problemas de la jornada electoral."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un proyecto de ley busca restringir el uso de las consultas populares para temas relacionados con proyectos extractivos, argumentando lo siguiente: “Las decisiones sobre proyectos de interés estratégico nacional no pueden quedar en manos de comunidades locales que, sin tener el conocimiento técnico sobre el impacto económico y fiscal, a menudo votan movidas por emociones y terminan frenando el progreso del país”.",
+      "pregunta": "¿Cuál es la afirmación que debilita MÁS el argumento central presentado en el contexto?"
+    },
+    "respuesta": "El progreso de un país no puede medirse únicamente en términos de crecimiento económico, sino también de bienestar social y ambiental.",
+    "ayuda": "Para debilitar el argumento, busca la opción que cuestione su premisa fundamental: que el progreso nacional depende de forma exclusiva del crecimiento económico extractivo y técnico.",
+    "distractores": [
+      "La Constitución define a Colombia como una república democrática, participativa y pluralista, donde la soberanía reside en el pueblo.",
+      "Los estudios de impacto ambiental que aprueban los proyectos extractivos son realizados por las mismas empresas interesadas.",
+      "Las comunidades locales usualmente no cuentan con los recursos económicos para contratar sus propios expertos técnicos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para fomentar la participación juvenil, una alcaldía crea el “Concejo Joven”, un órgano consultivo donde estudiantes de últimos grados de colegio pueden debatir los problemas del municipio y presentar recomendaciones no vinculantes al Concejo Municipal oficial. Tras su primer año, el Concejo Joven ha ganado popularidad en los medios, pero sus principales recomendaciones para invertir en parques y cultura han sido sistemáticamente ignoradas por el Concejo Municipal, que ha priorizado proyectos de infraestructura vial.",
+      "pregunta": "¿Cuál es un riesgo a mediano plazo que esta situación genera para el objetivo de fomentar la participación juvenil?"
+    },
+    "respuesta": "Que los jóvenes se sientan frustrados e instrumentalizados, aumentando su apatía y desconfianza hacia las instituciones políticas.",
+    "ayuda": "Cuando los espacios de participación ciudadana son puramente simbólicos y las propuestas son sistemáticamente ignoradas, el efecto psicosocial en los participantes es la desmotivación, frustración y apatía política.",
+    "distractores": [
+      "Que los concejales adultos decidan ceder sus curules a los miembros del Concejo Joven para las próximas elecciones.",
+      "Que el Concejo Joven adquiera gradualmente poder vinculante hasta convertirse en una corporación oficial del municipio.",
+      "Que los colegios se nieguen a seguir participando en la iniciativa por la falta de resultados concretos para la ciudad."
+    ]
+  }
+]
