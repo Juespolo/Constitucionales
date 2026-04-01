@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En una zona residencial, un grupo de vecinos decide organizar jornadas de limpieza mensuales para mantener en buen estado el parque del barrio, que ha sufrido un notable deterioro por la falta de mantenimiento por parte de la alcaldía local. Sin embargo, otro grupo de residentes se opone, argumentando que el cuidado de los espacios públicos es una obligación exclusiva de las entidades estatales y que ellos ya cumplen con pagar sus impuestos.",
+      "pregunta": "Según lo estipulado en la Constitución Política de Colombia, ¿qué deber ciudadano respalda la acción del grupo de vecinos que organiza las jornadas de limpieza?"
+    },
+    "respuesta": "El deber de proteger los recursos culturales y naturales del país y velar por la conservación de un ambiente sano.",
+    "ayuda": "La Constitución establece como deber ciudadano fundamental la protección de los recursos naturales y la conservación de un ambiente sano, justificando acciones comunitarias como esta.",
+    "distractores": [
+      "El deber de pagar los impuestos y contribuciones correspondientes para financiar el gasto público.",
+      "El deber de denunciar ante las autoridades competentes los actos de corrupción de los funcionarios públicos.",
+      "El deber de participar activamente en la vida política, cívica y comunitaria del país para el bien común."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa constructora obtiene una licencia para desarrollar un proyecto urbanístico en una zona de humedal, crucial para la regulación hídrica de una ciudad. Un colectivo de ciudadanos, preocupado por el impacto ambiental irreversible, ha recolectado evidencia técnica que demuestra que la licencia se otorgó sin los estudios de impacto ambiental requeridos por la ley.",
+      "pregunta": "¿Cuál de los siguientes mecanismos de control ciudadano es el más idóneo para que el colectivo intente detener la construcción y proteger el humedal?"
+    },
+    "respuesta": "Una acción popular, para defender el derecho colectivo a un ambiente sano y exigir la anulación de la licencia.",
+    "ayuda": "La acción popular es el mecanismo constitucional diseñado específicamente para la protección de derechos e intereses colectivos, como el medio ambiente sano.",
+    "distractores": [
+      "Una acción de tutela, para solicitar la protección inmediata del derecho a un ambiente sano.",
+      "Un cabildo abierto, para discutir públicamente el proyecto con el concejo municipal.",
+      "Un referendo, para que la ciudadanía decida si el proyecto debe continuar o no."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un informe periodístico revela que un gobernador ha estado utilizando fondos destinados a la alimentación escolar para financiar eventos de su campaña de reelección. La evidencia muestra facturas y contratos que desvían sistemáticamente el dinero público. La ciudadanía, indignada, exige una investigación y sanciones ejemplares.",
+      "pregunta": "La situación descrita generaría una intervención prioritaria de dos órganos de control específicos, debido a que sus funciones se relacionan directamente con las irregularidades. ¿Cuál de las siguientes opciones presenta una relación causa-efecto correcta entre la irregularidad y la función del órgano de control?"
+    },
+    "respuesta": "La Procuraduría investigaría la falta disciplinaria del gobernador (causa), y la Contraloría iniciaría un proceso de responsabilidad fiscal por el daño al patrimonio (efecto).",
+    "ayuda": "Recuerda las funciones: la Procuraduría sanciona las faltas disciplinarias de los funcionarios, mientras que la Contraloría vigila la gestión fiscal y protege el patrimonio del Estado.",
+    "distractores": [
+      "La Contraloría investigaría el mal uso de los recursos (causa), lo que podría llevar a la Defensoría del Pueblo a emitir una alerta (efecto).",
+      "La Fiscalía investigaría el posible delito de peculado (causa), lo que obligaría a la Registraduría a anular la elección del gobernador (efecto).",
+      "El Consejo de Estado revisaría la legalidad de los contratos (causa), y el Consejo Nacional Electoral impondría una multa al partido del gobernador (efecto)."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una comunidad indígena denuncia que una empresa minera está contaminando el río que constituye su principal fuente de agua, alimento y sustento espiritual. Afirman que esta actividad, además de violar las normas ambientales, atenta contra su supervivencia como pueblo y sus derechos fundamentales.",
+      "pregunta": "Según la Constitución de 1991, ¿cuál es el órgano de control cuya misión principal es velar por la promoción, el ejercicio y la divulgación de los derechos humanos, y que, por lo tanto, sería el más indicado para intervenir en favor de la comunidad indígena?"
+    },
+    "respuesta": "La Defensoría del Pueblo.",
+    "ayuda": "La Defensoría del Pueblo es el órgano del Ministerio Público encargado específicamente de promover, proteger y divulgar los derechos humanos en Colombia.",
+    "distractores": [
+      "La Contraloría General de la República.",
+      "La Procuraduría General de la Nación.",
+      "La Fiscalía General de la Nación."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un congresista es el principal promotor de una nueva ley que otorga grandes beneficios tributarios a las empresas de bebidas azucaradas. Meses después, una investigación periodística revela que, durante el trámite de la ley, el congresista recibió una donación anónima para su partido político proveniente del principal gremio de la industria de bebidas. Un grupo de ciudadanos busca revocar el mandato del congresista argumentando que traicionó la confianza de sus electores al legislar en favor de intereses particulares.",
+      "pregunta": "Un abogado detiene la iniciativa ciudadana explicándoles que su argumento, aunque éticamente válido, es jurídicamente improcedente para solicitar la revocatoria del mandato. ¿Cuál de las siguientes afirmaciones debilita más la postura de los ciudadanos?"
+    },
+    "respuesta": "El mecanismo de revocatoria del mandato no aplica para congresistas, sino únicamente para alcaldes y gobernadores.",
+    "ayuda": "La revocatoria del mandato en Colombia está restringida legalmente a los cargos de elección popular del poder ejecutivo a nivel territorial: alcaldes y gobernadores.",
+    "distractores": [
+      "La donación fue recibida por el partido político y no directamente por el congresista, lo que dificulta probar un beneficio personal.",
+      "El congresista puede argumentar que su voto a favor de la ley se basó en la creencia de que esta promovería la inversión y el empleo.",
+      "Los ciudadanos deberían haber utilizado una acción de nulidad contra la ley en lugar de atacar al congresista que la promovió."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras un fuerte invierno, la única vía que comunica a una vereda con la cabecera municipal queda completamente destruida. A pesar de las constantes solicitudes de la comunidad, pasan seis meses y la alcaldía no ha iniciado las obras de reparación, argumentando falta de presupuesto. Esta situación impide que los niños asistan a la escuela, que los enfermos sean trasladados al hospital y que los agricultores saquen sus productos a la venta, generando una crisis social y económica en la vereda.",
+      "pregunta": "La inacción de la alcaldía podría generar un efecto en cadena que active a diferentes órganos de control y mecanismos ciudadanos. ¿Cuál de las siguientes opciones presenta una relación causal más probable y efectiva para la solución del problema?"
+    },
+    "respuesta": "La comunidad presenta una queja ante la Procuraduría por la negligencia del alcalde, lo que podría desencadenar una investigación disciplinaria y presionar la ejecución de las obras.",
+    "ayuda": "La Procuraduría General de la Nación ejerce el control disciplinario y sanciona la omisión o negligencia de los servidores públicos, como el alcalde en este caso.",
+    "distractores": [
+      "Un ciudadano presenta una acción de tutela por el derecho a la libre circulación, y si el juez la concede, la alcaldía deberá reparar la vía de forma inmediata.",
+      "Los agricultores instauran una acción de grupo para ser indemnizados por las pérdidas económicas, lo que obliga a la alcaldía a conseguir recursos para pagarles y reparar la vía.",
+      "La comunidad solicita la intervención de la Contraloría para que audite los recursos de la alcaldía, lo que demostraría la falta de presupuesto y justificaría la demora."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante una protesta pacífica contra el alza de los precios del transporte público, un pequeño grupo de manifestantes empieza a vandalizar estaciones y a bloquear vías principales, impidiendo el paso de ambulancias. Varios líderes de la protesta debaten sobre cómo proceder. Unos proponen continuar la marcha ignorando los desmanes, argumentando que la causa es justa. Otros insisten en que deben aislar a los vándalos y rechazar públicamente sus acciones para no deslegitimar el movimiento.",
+      "pregunta": "El dilema que enfrentan los líderes de la protesta evidencia un conflicto entre el ejercicio de un derecho y el cumplimiento de un deber ciudadano. ¿Cuál de las siguientes opciones refleja mejor esta tensión?"
+    },
+    "respuesta": "El derecho a la protesta social pacífica contra el deber ciudadano de respetar los derechos ajenos y no abusar de los propios.",
+    "ayuda": "La Constitución garantiza derechos, pero también exige deberes. Todo ciudadano debe ejercer sus libertades sin vulnerar los derechos de los demás ni alterar la convivencia.",
+    "distractores": [
+      "El derecho a la libre expresión de los manifestantes contra el deber del Estado de garantizar la seguridad ciudadana.",
+      "El derecho de los usuarios del transporte a recibir un buen servicio contra el deber de los manifestantes de pagar las tarifas establecidas.",
+      "El derecho de los medios de comunicación a informar sobre los hechos contra el deber de los líderes de proteger la imagen de su movimiento."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Ministerio de Salud emite una resolución que actualiza el plan de beneficios en salud (PBS), excluyendo un tratamiento vital para pacientes con una enfermedad rara. La justificación del Ministerio es que el costo del tratamiento es demasiado elevado y afecta la sostenibilidad financiera del sistema. Un grupo de pacientes y sus familias considera que esta decisión atenta contra el derecho fundamental a la salud y a la vida.",
+      "pregunta": "Si los afectados consideran que la resolución del Ministerio viola directamente derechos consagrados en la Constitución, ¿cuál es la acción judicial que pueden interponer para solicitar a un juez que deje sin efectos dicha norma por ser inconstitucional?"
+    },
+    "respuesta": "Una acción pública de inconstitucionalidad contra la resolución.",
+    "ayuda": "La acción pública de inconstitucionalidad permite a cualquier ciudadano demandar normas jurídicas que contravengan la Constitución, buscando que sean retiradas del ordenamiento.",
+    "distractores": [
+      "Una acción de tutela para cada paciente afectado.",
+      "Una acción de cumplimiento para exigir al Ministerio que cumpla la ley.",
+      "Una acción popular para proteger el derecho colectivo a la salud."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un debate sobre la lucha contra la corrupción, un candidato presidencial propone fusionar la Procuraduría General de la Nación y la Contraloría General de la República en un único “Tribunal de Cuentas y Ética Pública”. Su argumento central es que esta unión “eliminaría la duplicidad de funciones, reduciría la burocracia y crearía una entidad más fuerte y eficiente para sancionar a los corruptos, ahorrándole billones de pesos al país”.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones debilita más el argumento central del candidato sobre la fusión de estas dos entidades?"
+    },
+    "respuesta": "Ambas entidades tienen mandatos constitucionales distintos y especializados: una vigila la conducta de los funcionarios y la otra, el buen uso del dinero público.",
+    "ayuda": "Identifica las funciones separadas: el control disciplinario (Procuraduría) evalúa la conducta, mientras que el control fiscal (Contraloría) audita el manejo de los recursos.",
+    "distractores": [
+      "La corrupción es un problema complejo que no se soluciona únicamente con el rediseño institucional, sino que requiere cambios culturales profundos.",
+      "Una fusión de esa magnitud requeriría una reforma constitucional muy compleja y con altos costos políticos que podrían superar los ahorros esperados.",
+      "Existen casos de países con tribunales de cuentas que igualmente presentan altos índices de corrupción, lo que prueba que el modelo no es infalible."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un municipio con altos índices de abstención electoral, un grupo cívico lanza una campaña con el lema: “Si no votas, pierdes el derecho a quejarte”. La campaña busca incentivar la participación en las próximas elecciones de alcalde, argumentando que el voto es la principal herramienta para exigir un buen gobierno y castigar la mala gestión.",
+      "pregunta": "¿Cuál de las siguientes opciones describe mejor la relación causal que la campaña busca establecer entre el deber de participar y el ejercicio del control ciudadano?"
+    },
+    "respuesta": "El ejercicio del voto otorga legitimidad moral y política al ciudadano para luego poder exigir rendición de cuentas a los elegidos.",
+    "ayuda": "Participar en las elecciones legitima la voz del ciudadano; el voto no solo es un derecho, sino el fundamento ético para exigir transparencia y control al gobierno.",
+    "distractores": [
+      "El voto genera automáticamente buenos gobiernos, lo que elimina la necesidad de quejarse o ejercer otros controles.",
+      "La abstención electoral provoca que los ciudadanos pierdan jurídicamente la posibilidad de usar mecanismos como la acción de tutela o la queja.",
+      "El pago de impuestos es el único requisito para que un ciudadano pueda exigir sus derechos y supervisar a los gobernantes."
+    ]
+  }
+]
