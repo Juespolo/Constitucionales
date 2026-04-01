@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En un barrio de Barranquilla, la Junta de Acción Comunal ha solicitado en repetidas ocasiones a la empresa de servicios públicos el mantenimiento de las luminarias de varias calles, las cuales llevan meses sin funcionar. Esta situación ha incrementado la percepción de inseguridad en los vecinos, afectando su derecho a la seguridad y la tranquilidad. Ante la falta de respuesta de la empresa, un grupo de residentes considera interponer una Acción de Tutela.",
+      "pregunta": "Considerando el contexto presentado, ¿cuál de los siguientes argumentos sería el más sólido para justificar la interposición de una Acción de Tutela en este caso?"
+    },
+    "respuesta": "La inoperancia de la empresa de servicios públicos vulnera directamente el derecho fundamental a la seguridad de los ciudadanos.",
+    "ayuda": "Recuerda que la Acción de Tutela procede específicamente cuando se vulneran de manera directa los derechos fundamentales de las personas.",
+    "distractores": [
+      "La falta de mantenimiento de las luminarias genera un impacto negativo en la calidad de vida y el bienestar general de la comunidad.",
+      "La empresa de servicios públicos está obligada por ley a prestar un servicio eficiente y continuo a los ciudadanos.",
+      "La Junta de Acción Comunal ya agotó las vías administrativas ordinarias sin obtener una solución satisfactoria."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un país ficticio, el gobierno implementa una política que prioriza el acceso a la educación de alta calidad solo para estudiantes con un rendimiento académico excepcional, dejando a un lado la inversión en la educación pública básica para el resto de la población. Argumentan que esta medida es necesaria para competir globalmente y formar una élite intelectual.",
+      "pregunta": "La política educativa implementada por el gobierno de este país ficticio desconoce principalmente la característica de los derechos humanos que establece que estos son:"
+    },
+    "respuesta": "Universales.",
+    "ayuda": "Los derechos humanos aplican para todas las personas sin discriminación o exclusión alguna, independientemente de sus condiciones particulares o méritos.",
+    "distractores": [
+      "Inalienables.",
+      "Progresivos.",
+      "Indivisibles."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La Corte Constitucional de Colombia, en varias de sus sentencias, ha hecho referencia a instrumentos internacionales de Derechos Humanos para fundamentar decisiones sobre la protección de los derechos fundamentales consagrados en la Constitución. Este enfoque demuestra la interconexión entre el ordenamiento jurídico interno y el derecho internacional.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones explica mejor la relación entre los derechos fundamentales de la Constitución colombiana y los Derechos Humanos internacionales, según el contexto planteado?"
+    },
+    "respuesta": "Los instrumentos internacionales de Derechos Humanos son parámetros de interpretación y control para la protección de los derechos fundamentales en Colombia.",
+    "ayuda": "El Bloque de Constitucionalidad en Colombia integra los tratados internacionales de derechos humanos como guías vinculantes para interpretar la Constitución.",
+    "distractores": [
+      "Los derechos humanos internacionales son una guía moral, pero no tienen fuerza jurídica vinculante en Colombia.",
+      "La Constitución colombiana es el único referente válido para la protección de los derechos fundamentales en el país.",
+      "Los derechos fundamentales en Colombia son superiores a los derechos humanos reconocidos internacionalmente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una colombiana es devota del islam y todos los días cubre su cabeza con una pañoleta. En una entrevista, después de aprobar con éxito una convocatoria para un cargo en la alcaldía de su ciudad, el funcionario entrevistador le advierte que no puede tomar el trabajo si no acepta llevar la cabeza descubierta en las horas laborales.",
+      "pregunta": "¿Tiene razón el funcionario al hacerle a la mujer esta solicitud?"
+    },
+    "respuesta": "No, porque le está vulnerando el derecho a la igualdad.",
+    "ayuda": "Prohibir el uso de símbolos religiosos en el trabajo constituye un acto de discriminación, vulnerando la igualdad y la libertad de culto.",
+    "distractores": [
+      "Sí, porque Colombia es un país católico.",
+      "Sí, porque el Estado colombiano es laico.",
+      "No, porque le está vulnerando el derecho a la privacidad."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de defensores de derechos humanos argumenta que el cambio climático y sus efectos adversos (como sequías extremas, inundaciones y desplazamiento forzado) deben ser considerados como una grave amenaza a la plena realización de los Derechos Humanos, incluyendo el derecho a la vida, a la alimentación y a la vivienda.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones fortalece más la postura de los defensores de derechos humanos sobre la relación entre el cambio climático y la violación de los Derechos Humanos?"
+    },
+    "respuesta": "Las comunidades más vulnerables, que menos han contribuido al cambio climático, son las que sufren de manera desproporcionada sus consecuencias, afectando sus derechos básicos.",
+    "ayuda": "Identifica la opción que establezca una conexión directa y material entre los efectos del daño ambiental y la afectación real a las personas.",
+    "distractores": [
+      "La Declaración Universal de los Derechos Humanos no menciona explícitamente el “cambio climático” entre sus artículos.",
+      "Los desastres naturales, como las sequías, siempre han existido y no son una novedad en la historia de la humanidad.",
+      "La lucha contra el cambio climático es una responsabilidad principalmente de los gobiernos y las grandes corporaciones, no de los individuos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una persona de la tercera edad en una zona rural de Nariño necesita con urgencia un medicamento vital que solo puede ser dispensado por su EPS, pero esta se niega a entregarlo alegando trámites administrativos. La salud del paciente se deteriora rápidamente.",
+      "pregunta": "En este caso, la Acción de Tutela se presenta como una herramienta idónea para proteger el derecho fundamental a la salud, debido a que:"
+    },
+    "respuesta": "Es un procedimiento expedito y preferente para la protección inmediata de derechos fundamentales.",
+    "ayuda": "La tutela es un mecanismo constitucional diseñado específicamente para brindar protección urgente e inmediata ante vulneraciones inminentes de derechos fundamentales.",
+    "distractores": [
+      "Es un mecanismo judicial que busca compensar económicamente a la persona afectada por la negligencia.",
+      "Permite que la persona afectada pueda demandar a la EPS ante los tribunales ordinarios.",
+      "Es la única vía legal disponible para cualquier tipo de reclamación contra entidades de salud."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de personas es detenido por la policía durante una protesta pacífica. Los detenidos denuncian que no se les ha informado sobre sus derechos, no se les ha permitido comunicarse con un abogado y han sido mantenidos incomunicados por varias horas.",
+      "pregunta": "¿Cuál de los siguientes derechos fundamentales de las personas detenidas se han vulnerado en la situación descrita, de acuerdo con la Constitución Política de Colombia y los estándares de Derechos Humanos?"
+    },
+    "respuesta": "El derecho al debido proceso.",
+    "ayuda": "La incomunicación y la falta de acceso a un abogado o a información sobre los cargos afectan directamente las garantías del debido proceso.",
+    "distractores": [
+      "El derecho a la presunción de inocencia.",
+      "El derecho a la igualdad ante la ley.",
+      "El derecho a la libertad de conciencia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un debate en una universidad se centra en la afirmación de que los Derechos Humanos son 'absolutos e ilimitados'. Un estudiante argumenta que esta afirmación es incorrecta, pues los derechos de una persona pueden verse limitados cuando entran en conflicto con los derechos de otra o con el bien común.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones apoya mejor el argumento del estudiante sobre la limitación de los derechos humanos?"
+    },
+    "respuesta": "La relatividad de los derechos humanos permite que sean limitados bajo ciertas condiciones establecidas.",
+    "ayuda": "Busca el principio jurídico que señala que los derechos no son absolutos, sino que tienen fronteras para garantizar la convivencia pacífica.",
+    "distractores": [
+      "Los derechos humanos son universales, lo que implica que todos los poseen sin excepción.",
+      "La inalienabilidad de los derechos humanos impide que sean quitados o renunciados por los individuos.",
+      "La interdependencia de los derechos humanos implica que su ejercicio pleno requiere el respeto de otros derechos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El gobierno nacional presenta un proyecto de ley que busca establecer un sistema de vigilancia masiva de las comunicaciones digitales de los ciudadanos, argumentando que es una medida necesaria para combatir el crimen organizado y el terrorismo. Sin embargo, diversos sectores de la sociedad expresan preocupación por la posible vulneración de derechos fundamentales.",
+      "pregunta": "¿Cuál de las siguientes consecuencias a largo plazo, en relación con los derechos fundamentales, podría generar la implementación de un sistema de vigilancia masiva como el propuesto?"
+    },
+    "respuesta": "Una disminución en la confianza ciudadana hacia las instituciones estatales y un posible efecto disuasorio en el ejercicio de la libertad de expresión y la intimidad.",
+    "ayuda": "La vigilancia estatal excesiva suele generar temor en la población, coartando su libre expresión y violando sistemáticamente el derecho a la intimidad.",
+    "distractores": [
+      "Un fortalecimiento de la seguridad nacional y una reducción significativa de la delincuencia en general pues el sistema de vigilancia permitiría combatir el crimen común.",
+      "Un aumento en la eficiencia de la administración pública debido a una mayor recolección de datos del accionar de los ciudadanos en el día a día.",
+      "La creación de nuevas oportunidades de empleo en el sector de la tecnología de la información para el cuidado y mantenimiento del sistema de vigilancia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante de 15 años que asiste a la institución educativa ha decidido no seguir las normas mínimas de aseo personal argumentando que esto hace parte de su libre desarrollo de la personalidad. Aunque en la institución se promueve el respeto por la diversidad y el ejercicio de los derechos fundamentales, algunos compañeros y docentes han expresado su incomodidad por esta situación.",
+      "pregunta": "Teniendo en cuenta el derecho al libre desarrollo de la personalidad, ¿cuál de las siguientes afirmaciones es la más adecuada en relación con el caso?"
+    },
+    "respuesta": "El libre desarrollo de la personalidad tiene límites cuando afecta los derechos de los demás.",
+    "ayuda": "Como todo derecho, el libre desarrollo de la personalidad encuentra su límite natural en los derechos ajenos y en el orden jurídico.",
+    "distractores": [
+      "El derecho a desarrollarse libremente justifica cualquier comportamiento, incluso si incomoda a otros.",
+      "Los estudiantes no tienen derecho a decidir sobre su aspecto físico ni sobre su higiene personal.",
+      "Los derechos colectivos siempre deben ceder ante los derechos individuales."
+    ]
+  }
+]
