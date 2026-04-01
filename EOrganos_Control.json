@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En la Sentencia T-439 de 2020, la Corte Constitucional estudió el caso de una comunidad que se oponía a la fumigación aérea con glifosato en su territorio. Al fallar, el alto tribunal recordó: “El deber de proteger el medio ambiente, consagrado en el artículo 95.8 de la Constitución, no es una mera declaración lírica. Impone a todos los ciudadanos una responsabilidad activa de conservación y una obligación de solidaridad, que implica propender al bienestar general y no solo al interés particular, especialmente cuando las acciones de unos pueden causar un perjuicio irremediable a la salud y al ecosistema de otros”.",
+      "pregunta": "De acuerdo con la interpretación de la Corte Constitucional citada en el texto, ¿cómo se debe entender el deber ciudadano de proteger el medio ambiente?"
+    },
+    "respuesta": "Como un mandato de acción solidaria que exige a los ciudadanos actuar para prevenir daños al entorno y a la comunidad.",
+    "ayuda": "La Corte entiende el cuidado ambiental no como algo pasivo, sino como una responsabilidad activa y solidaria para evitar perjuicios irreparables a la comunidad y al ecosistema.",
+    "distractores": [
+      "Como una obligación exclusiva del Estado, que debe ser cumplida a través de sus agencias ambientales.",
+      "Como una recomendación ética para que los ciudadanos prefieran el bienestar general sobre el particular.",
+      "Como un deber que se cumple únicamente a través del pago de impuestos destinados a la protección ambiental."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un reportaje de la unidad investigativa de un diario nacional, titulado “Los contratos fantasmas del PAE”, reveló que en varios municipios del departamento de La Guajira se giraron más de 5.000 millones de pesos a fundaciones que solo existían en el papel. El dinero, destinado al Programa de Alimentación Escolar (PAE), nunca se tradujo en comidas para los niños. El informe detalla los números de los contratos, los nombres de los representantes legales y las direcciones inexistentes de las fundaciones.",
+      "pregunta": "La publicación de esta noticia pone en evidencia una cadena de fallas en el control estatal. ¿Cuál de las siguientes opciones describe la consecuencia más directa y previsible en términos de la activación de los órganos de control?"
+    },
+    "respuesta": "La Fiscalía deberá iniciar una investigación penal por peculado y celebración de contratos sin cumplimiento de requisitos, y la Contraloría, un proceso de responsabilidad fiscal para recuperar el dinero.",
+    "ayuda": "Ante desvío de recursos, la Fiscalía investiga los delitos penales (como peculado), mientras que la Contraloría busca recuperar el dinero público perdido mediante responsabilidad fiscal.",
+    "distractores": [
+      "La Defensoría del Pueblo emitirá una alerta temprana por la vulneración de los derechos de los niños, solucionando así el problema de la alimentación escolar.",
+      "El Ministerio de Educación sancionará a los rectores de los colegios por no reportar la falta de alimentos, lo que llevará a la destitución inmediata del alcalde.",
+      "La Procuraduría abrirá una investigación disciplinaria contra los periodistas por publicar información sensible, lo que podría afectar la libertad de prensa."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un artículo de prensa informa: “Habitantes del barrio La Esperanza bloquearon por tercer día consecutivo la avenida principal en protesta por la falta de servicio de agua potable desde hace dos semanas. La empresa de acueducto afirma que la suspensión se debe a un daño complejo en la red matriz. Por su parte, comerciantes de la zona se quejan de millonarias pérdidas por el bloqueo, y directivas de un hospital cercano advierten que las ambulancias no pueden llegar a tiempo a la sala de urgencias”.",
+      "pregunta": "El conflicto descrito se origina por una falla en un servicio público, pero escala debido a la colisión entre las perspectivas y derechos de los diferentes actores involucrados. ¿Cuál de las siguientes opciones describe mejor el dilema central?"
+    },
+    "respuesta": "Los manifestantes, que ejercen su derecho a la protesta para exigir un derecho fundamental, frente a otros ciudadanos, cuyos derechos a la salud y al trabajo son afectados por la protesta.",
+    "ayuda": "El dilema central radica en el choque de derechos constitucionales válidos: el derecho a la protesta social pacífica de unos contra los derechos a la salud, movilidad y trabajo de terceros.",
+    "distractores": [
+      "El interés económico de la empresa de acueducto, que busca minimizar costos de reparación, frente al interés de la alcaldía de mantener su popularidad.",
+      "La perspectiva de los medios de comunicación, que buscan visibilizar el problema, frente a la de la empresa de acueducto, que prefiere manejar la crisis con un bajo perfil.",
+      "El interés de los comerciantes, que solo buscan su lucro personal, frente al de los habitantes del barrio, que exigen un servicio que no están pagando puntualmente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un columnista analiza el fenómeno de la evasión del pago en los sistemas de transporte masivo del país. En su texto argumenta: “La evasión, que le cuesta al sistema cerca de 500 mil millones de pesos al año, no es solo un problema de falta de cultura ciudadana. Es un síntoma de una desconexión más profunda: tarifas percibidas como injustas, un servicio deficiente y la sensación de que el dinero público se malgasta. Combatir la evasión no solo requiere más torniquetes y multas, sino también un sistema más transparente donde el ciudadano vea una relación directa entre su pago y un servicio de calidad”.",
+      "pregunta": "Según el análisis del columnista, una solución sistémica y a largo plazo para reducir la evasión en el transporte masivo implicaría, necesariamente:"
+    },
+    "respuesta": "Implementar mecanismos de control social y rendición de cuentas que permitan a los usuarios verificar cómo se invierten los recursos del sistema.",
+    "ayuda": "Si la evasión refleja desconexión y percepción de malgasto, la solución a largo plazo exige mecanismos de transparencia, control social y rendición de cuentas sobre la inversión de los recursos.",
+    "distractores": [
+      "Aumentar el número de policías en las estaciones para que impongan multas a todos los infractores sin excepción.",
+      "Lanzar campañas de cultura ciudadana que enfaticen el deber de pagar el pasaje como una obligación moral que todo ciudadano debe cumplir.",
+      "Privatizar completamente el servicio para que una empresa se encargue de optimizar las ganancias y la seguridad evitando la evasión de los pagos al sistema."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La Personería Municipal de un municipio presenta un informe público en el que denuncia: “Hemos recibido más de 200 quejas de ciudadanos que afirman que, para acceder a un subsidio de vivienda ofrecido por la alcaldía, funcionarios del Instituto de Vivienda les están exigiendo afiliarse al partido político del alcalde y asistir a las reuniones de la campaña. Esta práctica atenta contra la moralidad administrativa y los derechos de los ciudadanos”.",
+      "pregunta": "La conducta de los funcionarios denunciada por la Personería Municipal constituye una falta que debe ser investigada prioritariamente por:"
+    },
+    "respuesta": "La Procuraduría General de la Nación, porque los funcionarios públicos están usando su cargo para presionar a los ciudadanos con fines políticos.",
+    "ayuda": "La Procuraduría ejerce el control disciplinario sobre los funcionarios públicos, investigando las conductas que atenten contra la moralidad administrativa y el ejercicio indebido de sus cargos.",
+    "distractores": [
+      "La Contraloría General de la República, porque se están usando indebidamente los recursos de los subsidios.",
+      "El Consejo Nacional Electoral, porque se está afectando la equidad en la contienda política utilizando los recursos públicos para hacer campaña.",
+      "La Defensoría del Pueblo, porque se está vulnerando el derecho a la participación política de las personas condicionándola con los subsidios de vivienda."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Al anular el nombramiento de un alto funcionario por no cumplir con los requisitos de experiencia, el Consejo de Estado argumentó en su fallo: “La acción de nulidad electoral no es un instrumento para obstaculizar la administración, como aduce la defensa. Por el contrario, es una herramienta fundamental del control ciudadano, que materializa el deber de todos de 'participar en la vida política, cívica y comunitaria del país' (Art. 95, C.P.). Su propósito es garantizar que la función pública sea ejercida por quienes cumplen las calidades exigidas por la ley, en defensa del interés general”.",
+      "pregunta": "¿Cuál es el argumento central del Consejo de Estado para defender la legitimidad de la acción de nulidad electoral?"
+    },
+    "respuesta": "La participación ciudadana a través de acciones judiciales fortalece la democracia al asegurar el cumplimiento de la ley en el acceso a cargos públicos.",
+    "ayuda": "El Consejo de Estado defiende que usar acciones judiciales como la nulidad es un mecanismo válido de participación ciudadana para garantizar la legalidad e idoneidad en la función pública.",
+    "distractores": [
+      "El nombramiento de funcionarios es un proceso que debe ser completamente transparente y público en todas sus etapas según la Constitución Política.",
+      "La acción de nulidad es la única forma que tienen los ciudadanos para castigar la corrupción en el sector público.",
+      "Los ciudadanos tienen derecho a demandar cualquier nombramiento que no les guste, como parte de su libertad de expresión y a la participación en política."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La emisora local reporta: “La polémica por el alza del impuesto predial continúa. Ante la negativa del alcalde de reconsiderar la medida, un comité ciudadano ha anunciado que iniciará la recolección de firmas para convocar a las urnas a los ciudadanos y que sean ellos quienes decidan si aprueban o derogan el acuerdo municipal que autorizó el incremento. 'Si el alcalde no nos escucha, la ciudadanía decidirá directamente', afirmó el vocero del comité”.",
+      "pregunta": "¿A qué mecanismo de participación ciudadana se refiere el comité cuando habla de convocar a las urnas para derogar un acuerdo municipal?"
+    },
+    "respuesta": "A un referendo derogatorio.",
+    "ayuda": "El referendo derogatorio es el mecanismo de participación ciudadana diseñado específicamente para someter a votación del pueblo la anulación o derogación de una norma o ley vigente.",
+    "distractores": [
+      "A un plebiscito.",
+      "A una iniciativa popular normativa.",
+      "A una revocatoria del mandato."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una ONG ambientalista denuncia: “El proyecto de ley que busca flexibilizar el licenciamiento ambiental para proyectos mineros de gran escala, promovido por el gobierno, es un grave retroceso. El gobierno argumenta que es necesario para la reactivación económica y la generación de empleo. Nosotros, como parte de la sociedad civil y en cumplimiento de nuestro deber de proteger el ambiente, sostenemos que el costo ambiental y social será irreversible y afectará a las futuras generaciones. Es un choque entre una visión de desarrollo a corto plazo y la sostenibilidad del país”.",
+      "pregunta": "La denuncia de la ONG expone un conflicto entre dos visiones de país. ¿Cuál de las siguientes opciones describe adecuadamente las perspectivas en tensión?"
+    },
+    "respuesta": "La perspectiva de los ambientalistas, que defienden un modelo de desarrollo sostenible, y la del gobierno, que prioriza un modelo de crecimiento económico basado en la explotación de recursos.",
+    "ayuda": "El texto contrasta explícitamente la prioridad económica y de empleo que defiende el gobierno frente a la exigencia de sostenibilidad y protección a largo plazo de los ambientalistas.",
+    "distractores": [
+      "La perspectiva del gobierno, que busca proteger y generar el empleo, y la de los alcaldes de los municipios mineros, que desean más regalías para poder invertir en sus municipios.",
+      "La perspectiva de las empresas multinacionales, que solo buscan ganancias a partir de la explotación minera, y la de los campesinos, que serán desplazados de sus tierras luego de perder sus fuentes de agua.",
+      "La perspectiva del Ministerio de Minas, que promueve y facilita la inversión en el país, y la del Ministerio de Hacienda, que se preocupa por el recaudo de impuestos para la inversión."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un artículo analiza la crisis de un hospital público. Señala: “La crisis no se debe solo a la corrupción o a la mala gerencia. También es un reflejo de un sistema donde los recursos son limitados. Cada vez que un usuario interpone una acción de tutela para un tratamiento no incluido en el plan de beneficios, el hospital debe pagarlo con sus propios recursos, destinados a la atención básica de todos. Así, el ejercicio de un derecho individual, aunque justo, genera un efecto dominó que reduce la capacidad del hospital para atender las necesidades colectivas”.",
+      "pregunta": "Según el análisis del texto, ¿qué problema sistémico se genera en la situación descrita?"
+    },
+    "respuesta": "El deber de solidaridad de los ciudadanos se ve comprometido cuando la defensa de un derecho individual afecta la sostenibilidad del sistema que debe servir a todos.",
+    "ayuda": "El texto expone la tensión entre garantizar derechos individuales excepcionales a través de tutela y el impacto financiero negativo que esto genera sobre los recursos colectivos y básicos de salud.",
+    "distractores": [
+      "La corrupción de los directivos del hospital es la única causa de la crisis financiera de la institución.",
+      "Los jueces siempre fallan las tutelas a favor de los pacientes, incluso cuando saben que el hospital no tiene recursos para cumplir las órdenes y los puede llevar a la quiebra.",
+      "Los ciudadanos que interponen tutelas están abusando de sus derechos, pues deberían pagar por los tratamientos costosos de su propio bolsillo para evitarle problemas fiscales al hospital."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un noticiero informa: “La Corte Constitucional ha ordenado al Ministerio Público acompañar el proceso de restitución de tierras de la comunidad de El Salado. Específicamente, ha requerido a la entidad encargada de la 'guarda y promoción de los derechos humanos, la protección del interés público y la vigilancia de la conducta oficial' para que verifique que las órdenes del fallo se cumplan y los derechos de las víctimas no sean vulnerados durante el proceso”.",
+      "pregunta": "Según sus funciones constitucionales, ¿a cuál de los siguientes órganos que componen el Ministerio Público se refiere la orden de la Corte?"
+    },
+    "respuesta": "A la Procuraduría General de la Nación.",
+    "ayuda": "La Procuraduría General de la Nación es la máxima entidad del Ministerio Público encargada constitucionalmente de vigilar la conducta oficial, proteger el interés público y garantizar los derechos humanos.",
+    "distractores": [
+      "A la Contraloría General de la República.",
+      "A la Fiscalía General de la Nación.",
+      "A la Registraduría Nacional del Estado Civil."
+    ]
+  }
+]
