@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "La Personería de una de las principales ciudades de Colombia emitió una alerta por los altos niveles de contaminación del aire, que superan los límites recomendados por la Organización Mundial de la Salud. En la comunicación, el Personero le recuerda al alcalde que, según la Constitución, es su deber proteger el derecho de los ciudadanos a gozar de un ambiente sano y que existen mecanismos para tomar decisiones que ayuden a mitigar la crisis. El alcalde considera decretar un “Día sin Carro y sin Moto” obligatorio la próxima semana.",
+      "pregunta": "El mecanismo de participación que le permitiría al alcalde someter esta decisión de carácter general a la consideración directa de los ciudadanos es:"
+    },
+    "respuesta": "La consulta popular, para que la ciudadanía decida mediante el voto si apoya o no la medida.",
+    "ayuda": "La consulta popular a nivel municipal permite al alcalde consultar al pueblo sobre asuntos de trascendencia local para tomar decisiones administrativas.",
+    "distractores": [
+      "El cabildo abierto, para que el alcalde y los secretarios discutan el tema con la ciudadanía.",
+      "El referendo, para que los ciudadanos aprueben una nueva ley que regule la contaminación.",
+      "La iniciativa popular, para que un grupo de ciudadanos le proponga al alcalde el “Día sin Carro”."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el barrio Getsemaní de Cartagena, declarado Patrimonio de la Humanidad, la llegada masiva de turistas ha disparado el precio de los arriendos y ha llevado a la conversión de casas familiares en hoteles boutique y bares. Un residente de toda la vida afirma: “A nosotros nos están expulsando. El barrio ya no es para nosotros, sino para los extranjeros con dólares”. Por otro lado, un empresario hotelero argumenta: “Estamos generando empleo y recuperando fachadas que estaban en ruinas. El turismo le está dando una nueva vida al barrio”.",
+      "pregunta": "El conflicto descrito en el contexto se da principalmente entre:"
+    },
+    "respuesta": "La visión del barrio como un espacio residencial y cultural para sus habitantes y la visión del barrio como un producto turístico y comercial.",
+    "ayuda": "Identifica las posturas contrapuestas: el habitante defiende su modo de vida tradicional, mientras el empresario prioriza la rentabilidad económica y estética del turismo.",
+    "distractores": [
+      "El interés de la UNESCO por conservar el patrimonio y el interés del gobierno local por aumentar el recaudo de impuestos.",
+      "La perspectiva de los turistas que buscan experiencias auténticas y la de los vendedores ambulantes que buscan oportunidades económicas.",
+      "La necesidad de preservar la arquitectura colonial y la necesidad de construir infraestructura hotelera moderna y de gran altura."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una comunidad indígena del Chocó, cuyo territorio ancestral fue concesionado por el Estado a una empresa maderera, interpone una acción judicial. Argumentan que el proyecto amenaza la supervivencia de su cultura y el equilibrio ecológico del que dependen. El caso llega a la Corte Constitucional, que en su sentencia ampara los derechos de la comunidad y deja sin efectos la licencia, ordenando al Gobierno realizar un proceso de consulta con la comunidad antes de tomar cualquier decisión sobre dicho territorio.",
+      "pregunta": "La decisión de la Corte se fundamenta en que, para este caso, se omitió el mecanismo de participación ciudadana conocido como:"
+    },
+    "respuesta": "La consulta previa, un derecho fundamental de los grupos étnicos a ser consultados sobre medidas que los afecten directamente.",
+    "ayuda": "La consulta previa es un mecanismo exclusivo de comunidades indígenas y afrodescendientes para decidir sobre proyectos que impacten sus territorios ancestrales o identidad cultural.",
+    "distractores": [
+      "La acción popular, que busca proteger los derechos e intereses colectivos, como un ambiente sano.",
+      "El cabildo abierto, que es la reunión pública para tratar asuntos de interés para la comunidad.",
+      "El referendo aprobatorio, para que toda la nación decida sobre la conveniencia del proyecto maderero."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un ciudadano es detenido por un agente de policía por cruzar una avenida por un lugar no permitido (infracción al Código Nacional de Seguridad y Convivencia Ciudadana). El policía le informa que le impondrá una orden de comparendo. El ciudadano, molesto, le dice al policía: “Usted no puede multarme, solo un juez puede hacer eso”.",
+      "pregunta": "La afirmación del ciudadano es incorrecta porque, en este caso, la función del policía es:"
+    },
+    "respuesta": "Expedir la orden de comparendo para que la persona se presente ante la autoridad competente, que luego decidirá si impone o no la multa.",
+    "ayuda": "Un comparendo no es una multa automática, sino una orden formal de comparecencia ante un inspector de policía, quien determinará la sanción.",
+    "distractores": [
+      "Imponer y cobrar la multa de manera inmediata en el lugar de los hechos, como parte de sus funciones de control.",
+      "Actuar como una autoridad judicial, con la potestad de juzgar la conducta del ciudadano e imponer una sanción definitiva.",
+      "Iniciar un proceso penal en contra del ciudadano por haber puesto en riesgo su vida y la de los conductores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un comité ciudadano en Ibagué logra recolectar y presentar ante la Registraduría el número de firmas válidas para solicitar la revocatoria del mandato del alcalde, argumentando un incumplimiento generalizado de su plan de gobierno. La Registraduría, tras validar los apoyos, fija la fecha para la jornada de votación.",
+      "pregunta": "Según la Ley 134 de 1994, para que el alcalde sea efectivamente revocado en la jornada de votación, se requiere que:"
+    },
+    "respuesta": "La mitad más uno de los votos depositados sean por el “Sí”, siempre que participe al menos el 40% de quienes votaron en la elección del alcalde.",
+    "ayuda": "La revocatoria exige cumplir un umbral de participación mínima legal (40% de los votos de la elección original) y obtener la mayoría simple.",
+    "distractores": [
+      "El “Sí” obtenga una votación superior al número de votos que obtuvo el alcalde cuando fue elegido.",
+      "Participe en la jornada al menos el 55% del censo electoral total del municipio y que la mayoría vote por el “Sí”.",
+      "El “Sí” gane en las urnas y que, posteriormente, el Concejo Municipal ratifique la decisión de los ciudadanos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una noticia informa que en Colombia las Entidades Promotoras de Salud (EPS) niegan frecuentemente servicios o medicamentos que están incluidos en el Plan de Beneficios en Salud (PBS). Debido a esto, cada día se interponen cientos de acciones de tutela en el país para reclamar estos servicios. Aunque la tutela es efectiva para el paciente que la interpone, el problema de fondo persiste para la mayoría de la población.",
+      "pregunta": "El uso masivo y sistemático de la tutela para reclamar servicios de salud, aunque resuelve casos individuales, puede ser un síntoma de:"
+    },
+    "respuesta": "Una falla estructural en el sistema administrativo de salud que no garantiza el acceso efectivo a los derechos de los afiliados.",
+    "ayuda": "Cuando un mecanismo excepcional como la tutela se vuelve la regla general, evidencia deficiencias sistémicas en la prestación regular del servicio.",
+    "distractores": [
+      "El desconocimiento de los ciudadanos sobre cuáles son sus deberes dentro del sistema de salud, como el pago de las cotizaciones.",
+      "El éxito del sistema judicial, que se ha convertido en la principal puerta de acceso a los servicios de salud para toda la población.",
+      "La inexistencia de otros mecanismos de defensa, como las quejas ante la Superintendencia de Salud, para resolver estos problemas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Gobierno Nacional planea delimitar un páramo para proteger sus fuentes hídricas, lo que implicaría prohibir las actividades agrícolas y ganaderas de las que han vivido por generaciones las familias campesinas de la zona. Un funcionario de la Agencia Nacional de Tierras declara: “La protección del agua como recurso estratégico para las ciudades es una prioridad nacional”. Un líder campesino de la región responde: “Nosotros también somos parte del ambiente y hemos cuidado el páramo. Prohibir nuestras actividades sin darnos alternativas es condenarnos a la pobreza”.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones refleja mejor el conflicto de intereses presentado?"
+    },
+    "respuesta": "La visión del páramo como un ecosistema estratégico de interés nacional choca con la visión del páramo como un territorio que sustenta un modo de vida campesino.",
+    "ayuda": "Reconoce los actores: el Estado busca la conservación ambiental general frente a la comunidad local que defiende su supervivencia y costumbres socioeconómicas.",
+    "distractores": [
+      "El interés de los campesinos por expandir la frontera agrícola se opone al interés del gobierno por declarar el área como un parque nacional turístico.",
+      "La perspectiva de los ambientalistas de las ciudades, que exigen agua pura, se enfrenta a la de las corporaciones autónomas regionales que buscan cobrar por el uso del agua.",
+      "El derecho a la propiedad privada de los campesinos sobre sus tierras entra en conflicto con el derecho de las ciudades a un desarrollo económico sostenible."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante una emergencia causada por un desastre natural, el Presidente de la República declara el Estado de Emergencia Económica, Social y Ecológica. Amparado en esta figura, expide un decreto con fuerza de ley que destina recursos de la salud para la reconstrucción de infraestructura. Un congresista de la oposición afirma que el Presidente se está excediendo en sus funciones y que dicho decreto debe ser revisado.",
+      "pregunta": "De acuerdo con la Constitución Política de Colombia, la entidad encargada de realizar el control automático sobre la constitucionalidad de los decretos legislativos expedidos durante un estado de excepción es:"
+    },
+    "respuesta": "La Corte Constitucional.",
+    "ayuda": "Durante los estados de excepción, la Corte Constitucional ejerce un control automático sobre los decretos presidenciales legislativos para evitar abusos del poder ejecutivo.",
+    "distractores": [
+      "El Congreso de la República.",
+      "La Procuraduría General de la Nación.",
+      "La Contraloría General de la República."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un presidente de Colombia está finalizando su periodo presidencial y, debido a la alta popularidad de la que goza, decide proponer la inclusión de la reelección presidencial indefinida dentro de la Constitución. Para tal fin, quiere convocar un referendo.",
+      "pregunta": "¿El presidente puede hacer esto?"
+    },
+    "respuesta": "Sí, porque los referendos permiten reformar la Constitución.",
+    "ayuda": "El referendo constitucional es uno de los mecanismos legales previstos en Colombia para que los ciudadanos puedan aprobar o rechazar reformas a la Carta Magna.",
+    "distractores": [
+      "No, porque la Constitución no puede reformarla el Ejecutivo; solo a través de una Asamblea Constituyente.",
+      "Sí, porque el presidente puede modificar la Constitución por su cuenta, sin acudir al poder legislativo.",
+      "No, porque los referendos no permiten reformar la Constitución."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En la Constitución Política de Colombia se establece que los derechos de los menores de edad están por encima de los de otros particulares. Por lo anterior, si un menor de catorce años comete un delito no puede ser enviado a prisión y debe ser juzgado según un código penal diferente del ordinario. Un presidente de turno considera que, debido a este trato especial que se da en el juzgamiento de los menores, la delincuencia juvenil ha ido incrementándose; por ello, decide convocar a la ciudadanía para conocer si esta apoyaría que se anule la norma constitucional que pone los derechos de los menores por encima de los del resto de la población.",
+      "pregunta": "De acuerdo con los mecanismos de participación directa que contempla la Constitución, ¿cuál de los siguientes es el adecuado para que el presidente pueda adelantar su iniciativa?"
+    },
+    "respuesta": "El referendo.",
+    "ayuda": "Para modificar, derogar o anular artículos específicos de la Constitución Política, el mecanismo de participación directa estipulado por la ley es el referendo.",
+    "distractores": [
+      "El plebiscito.",
+      "La consulta popular.",
+      "El cabildo abierto."
+    ]
+  }
+]
