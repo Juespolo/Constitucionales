@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Durante un “día sin carro” decretado por una alcaldía, un agente de tránsito le impide a un ciudadano desplazarse en su vehículo particular, quien no cumple ninguna de las excepciones permitidas. El ciudadano alega que se le está violando su derecho a circular libremente por el territorio nacional.",
+      "pregunta": "Según la Constitución Política de Colombia, la actuación del agente de tránsito es:"
+    },
+    "respuesta": "Legal, pues el derecho a la libre locomoción puede ser limitado por la ley en virtud del interés general.",
+    "ayuda": "El derecho a la libre locomoción no es absoluto y puede restringirse legalmente para proteger el interés general, como el medio ambiente en un día sin carro.",
+    "distractores": [
+      "Ilegal, pues el derecho fundamental a la libre locomoción tiene un carácter absoluto y no puede ser restringido por una autoridad administrativa como una alcaldía.",
+      "Ilegal, porque la Constitución establece que solo una autoridad judicial competente puede emitir una orden que restrinja la libertad de movilidad de una persona.",
+      "Legal, pero únicamente si el ciudadano está de acuerdo con la medida y reconoce los beneficios ambientales que esta trae para la ciudad."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un youtuber publica un video afirmando: “Como ciudadano, mi libertad de expresión, garantizada por el artículo 20 de la Constitución, me da derecho a decir lo que quiera sobre cualquier persona, incluyendo acusaciones graves sin necesidad de pruebas, pues la verdad siempre encuentra su camino. Responsabilizarme por lo que digo sería censura”.",
+      "pregunta": "El argumento del youtuber es falaz porque:"
+    },
+    "respuesta": "El mismo artículo 20 establece la responsabilidad social y la Constitución también protege derechos como la honra y el buen nombre, que limitan la libertad de expresión.",
+    "ayuda": "La libertad de expresión conlleva responsabilidad social. No ampara calumnias o injurias que vulneren los derechos al buen nombre y la honra de otras personas.",
+    "distractores": [
+      "La libertad de expresión es un derecho reservado principalmente para los periodistas profesionales que trabajan en medios de comunicación reconocidos y que tienen un código de ética.",
+      "Los videos publicados en plataformas como YouTube no son considerados medios de comunicación serios y, por lo tanto, no gozan de la misma protección constitucional que la prensa.",
+      "La censura previa está prohibida en Colombia, por lo cual su argumento es esencialmente correcto y cualquier intento de sancionarlo violaría sus derechos fundamentales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A raíz de una crisis carcelaria, una organización de derechos humanos denuncia que en varias prisiones del país se presentan graves condiciones de hacinamiento, falta de acceso a servicios sanitarios y alimentación inadecuada. El gobierno argumenta que la situación es consecuencia del aumento de la criminalidad y de limitaciones presupuestarias, y que se están tomando medidas a mediano plazo.",
+      "pregunta": "¿Cuál de las siguientes opciones describe mejor una relación causal que explica por qué esta situación viola tanto la Constitución de Colombia como los tratados internacionales de Derechos Humanos?"
+    },
+    "respuesta": "El aumento de la criminalidad genera hacinamiento, y esta condición, a su vez, provoca la vulneración del derecho a la dignidad humana.",
+    "ayuda": "Las condiciones de hacinamiento extremo y falta de servicios básicos en las prisiones atentan directamente contra la dignidad humana, principio rector de los derechos fundamentales.",
+    "distractores": [
+      "Las limitaciones presupuestarias del gobierno son la única causa del problema, lo que justifica temporalmente la suspensión de ciertos derechos de los reclusos.",
+      "La denuncia de la organización busca afectar la imagen del país a nivel internacional, presionando al gobierno para que invierta más en el sistema penitenciario.",
+      "Los reclusos, al haber cometido delitos, han perdido su derecho a la protección del Estado, por lo que la Constitución ya no los ampara plenamente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de estudiantes organiza una marcha para protestar contra el aumento de las matrículas universitarias. En un comunicado, afirman: “El artículo 37 de la Constitución nos garantiza el derecho a reunirnos y manifestarnos públicamente y sin armas. Por tanto, cualquier intento de la policía de disolver nuestra marcha, incluso si bloqueamos una vía principal, es un acto de represión ilegal que viola nuestros derechos fundamentales”.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones debilita más el argumento central de los estudiantes?"
+    },
+    "respuesta": "El derecho a la protesta no es absoluto y debe ponderarse con los derechos de los demás, como el derecho a la libre circulación.",
+    "ayuda": "El derecho a la protesta pacífica se debe ponderar con otros derechos fundamentales de la ciudadanía, garantizando un equilibrio sin afectar gravemente la libre circulación.",
+    "distractores": [
+      "El derecho a la educación también es un derecho fundamental y el gobierno debería garantizarlo.",
+      "Las marchas estudiantiles históricamente han logrado cambios importantes en las políticas educativas del país.",
+      "La policía a menudo utiliza la fuerza de manera desproporcionada en las manifestaciones sociales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante es acusado de plagio en su trabajo de grado. Las directivas de la universidad, basándose en un informe de un software antiplagio, deciden anular su trabajo y suspenderlo por un año, sin permitirle al estudiante presentar pruebas a su favor ni controvertir el informe del software.",
+      "pregunta": "Para analizar la situación desde la perspectiva del debido proceso, ¿cuál de los siguientes elementos es crucial evaluar?"
+    },
+    "respuesta": "Si se le garantizó al estudiante el derecho al debido proceso, la defensa y la contradicción.",
+    "ayuda": "Toda sanción, incluso en el ámbito educativo, requiere garantizar el derecho a la defensa, la contradicción de pruebas y el debido proceso antes de decidir.",
+    "distractores": [
+      "El prestigio académico de la universidad a nivel nacional, ya que las instituciones de alta calidad deben ser muy estrictas con el fraude académico.",
+      "Si el estudiante efectivamente cometió el plagio de manera intencional o fue un error, pues de esto depende la gravedad de la sanción que se debe imponer.",
+      "El derecho de la universidad a mantener su calidad académica y la integridad de sus títulos, que es la razón por la cual se aplican este tipo de sanciones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un debate sobre políticas migratorias, un funcionario público afirma: \"Si bien los Derechos Humanos son importantes, debemos priorizar los derechos de nuestros ciudadanos. Los migrantes en situación irregular no pueden exigir los mismos derechos a la salud o al trabajo que un colombiano, pues no contribuyen con impuestos de la misma manera y su situación es ilegal\".",
+      "pregunta": "La afirmación del funcionario desconoce una característica esencial de los Derechos Humanos, consagrada en la Declaración Universal. ¿Cuál es?"
+    },
+    "respuesta": "Son universales, lo que significa que pertenecen a todos los seres humanos por igual.",
+    "ayuda": "La universalidad implica que los derechos humanos son inherentes a toda persona por el simple hecho de existir, sin importar su nacionalidad o estatus migratorio.",
+    "distractores": [
+      "Son irrenunciables, lo que significa que un migrante no puede renunciar a ellos voluntariamente.",
+      "Son históricos, lo que significa que evolucionan y cambian con el tiempo y las necesidades sociales.",
+      "Son progresivos, lo que significa que el Estado debe avanzar gradualmente en su cobertura y mejoramiento."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un colegio de bachillerato con un fuerte énfasis en la disciplina y la tradición exige a todos sus estudiantes, hombres y mujeres, llevar el cabello corto y prohíbe el uso de piercings o maquillaje. Un estudiante con cabello largo es sancionado y se le amenaza con la expulsión. Sus padres argumentan que se le está vulnerando su derecho al libre desarrollo de la personalidad, mientras que el colegio sostiene que sus normas son parte de su proyecto educativo y aceptadas por los padres al momento de la matrícula.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones refleja mejor la perspectiva de la Corte Constitucional colombiana frente a este tipo de conflictos?"
+    },
+    "respuesta": "Se debe ponderar el derecho al libre desarrollo de la personalidad del estudiante con el derecho a la educación y el proyecto educativo del colegio, pero las normas sobre apariencia no pueden ser irrazonables o desproporcionadas.",
+    "ayuda": "Los manuales de convivencia deben respetar el libre desarrollo de la personalidad. Las exigencias estéticas no pueden vulnerar este derecho imponiendo patrones arbitrarios de apariencia.",
+    "distractores": [
+      "Los padres de familia son los únicos que pueden decidir sobre la apariencia de sus hijos, por lo que la opinión del estudiante es irrelevante.",
+      "El derecho al libre desarrollo de la personalidad prevalece siempre, por lo que cualquier norma sobre la apariencia personal en un colegio es inconstitucional.",
+      "Las instituciones educativas tienen autonomía absoluta para definir sus manuales de convivencia y los estudiantes deben acatarlos sin excepción, sobre todo cuando se trata de normas de presentación que son fundamentales en el desarrollo de la persona."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa de tecnología implementa un nuevo modelo de contratación a través de una aplicación, en la que los trabajadores son \"colaboradores independientes\" que se conectan para realizar tareas específicas y son pagados por tarea completada. La empresa argumenta que este modelo ofrece flexibilidad y autonomía. Sin embargo, un grupo de “colaboradores” señala que no tienen acceso a seguridad social (salud, pensión, riesgos laborales), ni a vacaciones o primas, y que sus ingresos son inestables y dependen de la calificación de los usuarios.",
+      "pregunta": "Una consecuencia directa de este modelo de contratación, tal como se describe, es que"
+    },
+    "respuesta": "Se transfiere la responsabilidad de garantizar los derechos laborales al trabajador, generando precarización laboral.",
+    "ayuda": "Analiza cómo el modelo desdibuja el vínculo laboral tradicional, dejando al trabajador sin garantías constitucionales mínimas como la seguridad social y generando precarización.",
+    "distractores": [
+      "Se fomenta el espíritu emprendedor de los jóvenes, mejorando la economía del país a largo plazo.",
+      "Se eliminan los conflictos laborales, ya que no existe una relación de subordinación entre la empresa y el trabajador.",
+      "Se mejora la calidad del servicio al cliente, pues los trabajadores dependen de buenas calificaciones para seguir recibiendo tareas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un soldado regular del Ejército Nacional, habiendo profesado una nueva fe religiosa que prohíbe estrictamente el uso de armas contra otro ser humano, solicita a sus superiores ser retirado de las actividades de combate y reasignado a funciones administrativas o logísticas. Su petición se basa en la objeción de conciencia.",
+      "pregunta": "De acuerdo con la Constitución Política de Colombia, el soldado está ejerciendo su derecho fundamental a la"
+    },
+    "respuesta": "Libertad de conciencia, que le permite actuar de acuerdo con sus convicciones morales.",
+    "ayuda": "La objeción de conciencia se deriva directamente de la libertad de conciencia, permitiendo negarse a cumplir deberes jurídicos que riñan profundamente con convicciones íntimas o morales.",
+    "distractores": [
+      "Libertad de cultos, que le permite practicar libremente su religión en el cuartel.",
+      "Igualdad, pues busca un trato similar al de otros soldados en funciones administrativas.",
+      "Libre desarrollo de la personalidad, que le permite elegir su proyecto de vida."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un interrogatorio, un agente estatal somete a un detenido a privación del sueño y posturas forzadas para obtener una confesión sobre un crimen. Una organización defensora de DDHH denuncia el hecho, calificándolo como tortura. El agente se defiende diciendo que eran “métodos de presión necesarios” para resolver un caso de seguridad nacional.",
+      "pregunta": "¿Cuál de las siguientes opciones explica por qué esta acción es una violación tanto del ordenamiento colombiano como del internacional?"
+    },
+    "respuesta": "La prohibición de la tortura es absoluta, según el Artículo 12 de la Constitución y tratados internacionales, por lo que ninguna circunstancia, ni siquiera la seguridad nacional, justifica su uso.",
+    "ayuda": "El derecho a no ser sometido a tortura ni a tratos crueles, inhumanos o degradantes es absoluto; no admite excepciones bajo ninguna circunstancia, incluida la seguridad.",
+    "distractores": [
+      "La confesión obtenida de esta manera es nula y no puede usarse en un juicio, lo que hace que el procedimiento sea ineficaz desde el punto de vista procesal.",
+      "La organización de DDHH que denuncia el hecho busca principalmente afectar la imagen del gobierno, utilizando el caso para avanzar en su propia agenda política.",
+      "Aunque los métodos son controversiales, el fin último de proteger la seguridad nacional podría justificar acciones extraordinarias que no se aplicarían en casos ordinarios."
+    ]
+  }
+]
